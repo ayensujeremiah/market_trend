@@ -1,0 +1,352 @@
+[
+    {
+        "cluster_id": 3,
+        "summary": "Title: Mystery Apps: Unveiling the Unknown in Digital Trends\n\nDescription: Discover the intrigue of the latest trend in app development with a collection of unknown and mysterious applications that are reshaping the digital landscape. From hidden gems to innovative tools, explore the enigma behind these apps and uncover a world of limitless possibilities waiting to be revealed.",
+        "growth_pace": 223.89087093389296,
+        "examples": [
+            {
+                "name": "VMware Tanzu Greenplum (BYOL)",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/pivotal.pivotal-greenplum-azure-byol?exp=ubp8&tab=Overview"
+            },
+            {
+                "name": "Prefect 1",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/prefecttechnologiesinc1606247647944.prefect_cloud?exp=ubp8&tab=Overview"
+            },
+            {
+                "name": "CData API Server",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cdatasoftware.cdataapiserver?exp=ubp8&tab=Overview"
+            },
+            {
+                "name": "Volody Contract Management Software",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/volodyproductspltd1610011615564.volody_clm?exp=ubp8&tab=Overview"
+            },
+            {
+                "name": "Skylight Analytics",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/accediannetworks1624483188184.ms_skylight_analytics?exp=ubp8&tab=Overview"
+            },
+            {
+                "name": "City Graph",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/siemens-advanta.citygraph?exp=ubp8&tab=Overview"
+            },
+            {
+                "name": "Palantir Foundry",
+                "url": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/palantirtechnologies1585670280063.palantir_foundry?exp=ubp8&tab=Overview"
+            }
+        ]
+    },
+    {
+        "cluster_id": 0,
+        "summary": "Title: Enhanced Cloud Infrastructure Solutions for High Availability and Scalability\n\nDescription: Explore the latest trend in cloud infrastructure solutions, leveraging Red Hat Enterprise Linux with High Availability on Amazon EC2 for enhanced reliability, scalability, and availability of critical production services. This trend offers seamless integration with Amazon EC2 features, including Elastic Block Store, CloudWatch, Load Balancing, and more. Additionally, CloudBeaver, a universal data management interface, and SAP BusinessObjects AMI bring innovative cloud-based solutions for efficient business intelligence and data management. Strengthen your security operations with Splunk SOAR, providing security orchestration, automation, and response capabilities for smarter, faster incident handling. Discover how these offerings built on Red Hat Enterprise Linux OS can optimize your cloud environment and streamline your operations.",
+        "growth_pace": 17016.2098996803,
+        "examples": [
+            {
+                "name": "Red Hat Enterprise Linux 8.4 with High Availability",
+                "url": "https://aws.amazon.com/marketplace/pp/B098856RXG?qid=1714077095152&sr=0-71&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Red Hat Enterprise Linux (RHEL) 7.2 (HVM)",
+                "url": "https://aws.amazon.com/marketplace/pp/B019NS7T5I?qid=1714077141790&sr=0-111&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Red Hat Enterprise Linux (RHEL) 7 (HVM)",
+                "url": "https://aws.amazon.com/marketplace/pp/B00KWBZVK6?qid=1714077159027&sr=0-181&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Red Hat Enterprise Linux (RHEL) 7 (HVM)",
+                "url": "https://aws.amazon.com/marketplace/pp/B07Z5GM7W6?qid=1714076889920&sr=0-41&ref_=srh_res_product_title"
+            },
+            {
+                "name": "CloudBeaver AWS",
+                "url": "https://aws.amazon.com/marketplace/pp/B08QTY2JTF?qid=1714077542952&sr=0-963&ref_=srh_res_product_title"
+            },
+            {
+                "name": "CloudBeaver Community",
+                "url": "https://aws.amazon.com/marketplace/pp/B09G4N23DT?qid=1714077931188&sr=0-2187&ref_=srh_res_product_title"
+            },
+            {
+                "name": "SAP BusinessObjects 5 Named Users - STANDARD",
+                "url": "https://aws.amazon.com/marketplace/pp/B00CB2IZWU?qid=1714077887358&sr=0-1938&ref_=srh_res_product_title"
+            }
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "summary": "Title: \"Integrated Software Suite for Enhanced Productivity\"\n\nDescription: The growing market trend focuses on offering integrated software packages that combine complementary tools to improve productivity and efficiency for users. These software suites include a diverse range of features that cater to various user needs, making them a convenient all-in-one solution. By integrating different software packages into a single product, users can streamline their workflows, optimize processes, and enhance overall performance. Embracing this trend can help businesses and individuals achieve higher levels of productivity and effectiveness in their daily tasks.",
+        "growth_pace": 90.01624365482233,
+        "examples": [
+            {
+                "name": "ADFS Server Windows 2019",
+                "url": "https://aws.amazon.com/marketplace/pp/B085327P1D?qid=1714077687397&sr=0-1593&ref_=srh_res_product_title"
+            },
+            {
+                "name": "IIS 10 on Windows 2019",
+                "url": "https://aws.amazon.com/marketplace/pp/B07WNLFTDB?qid=1714077509016&sr=0-783&ref_=srh_res_product_title"
+            },
+            {
+                "name": "XAMPP Server on Windows 2019 + Apache Web Server + MariaDB + FTP",
+                "url": "https://aws.amazon.com/marketplace/pp/B08L5LHBM9?qid=1714077969372&sr=0-2336&ref_=srh_res_product_title"
+            },
+            {
+                "name": "NVIDIA Gaming PC - Windows Server 2016",
+                "url": "https://aws.amazon.com/marketplace/pp/B07SRJGXWZ?qid=1714077344412&sr=0-322&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Microsoft Windows Server 2019 with NVIDIA Tesla Driver",
+                "url": "https://aws.amazon.com/marketplace/pp/B07XDD4T7Y?qid=1714077649235&sr=0-1386&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Active Directory Domain Controller 2016",
+                "url": "https://aws.amazon.com/marketplace/pp/B07MF4TC76?qid=1714077592984&sr=0-1162&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Microsoft SQL Server 2019 Web on Windows Server 2019",
+                "url": "https://aws.amazon.com/marketplace/pp/B081DBLZNY?qid=1714077556168&sr=0-1021&ref_=srh_res_product_title"
+            }
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "summary": "Title: \"Enhance Your Development Workflow with Code Quality Inspection Tools\"\n\nDescription: Stay ahead of the curve in software development by utilizing code quality inspection tools like SonarQube\u2122 and other specialized assistants and project generators. These tools offer a comprehensive analysis of your codebase, detecting bugs, code smells, duplicated code, and security vulnerabilities across a wide range of programming languages. By focusing on writing clean, responsive, efficient, and scalable code, developers can optimize their workflow, improve productivity, and become faster at delivering high-quality projects. Step up your coding game and embrace these tools to elevate your development process to the next level.",
+        "growth_pace": 60567.935523114356,
+        "examples": [
+            {
+                "name": "SonarQube\u2122 packaged by 12 Tech",
+                "url": "https://aws.amazon.com/marketplace/pp/B09V977K4H?qid=1714079838315&sr=0-4861&ref_=srh_res_product_title"
+            },
+            {
+                "name": "Java",
+                "url": "https://chat.openai.com/g/g-3GmVMbWRV-java"
+            },
+            {
+                "name": "NodeJS Copilot",
+                "url": "https://chat.openai.com/g/g-OHnkjwF54-nodejs-copilot"
+            },
+            {
+                "name": "Vue Copilot",
+                "url": "https://chat.openai.com/g/g-V9flHctZB-vue-copilot"
+            },
+            {
+                "name": ".NET Copilot",
+                "url": "https://chat.openai.com/g/g-SmxfTyCnC-net-copilot"
+            },
+            {
+                "name": "Laravel Copilot",
+                "url": "https://chat.openai.com/g/g-2ND93c6u2-laravel-copilot"
+            },
+            {
+                "name": "Angular Copilot",
+                "url": "https://chat.openai.com/g/g-U80yiDX6F-angular-copilot"
+            }
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "summary": "Title: Innovative Tech Solutions for Sales, Branding, and Customer Engagement\n\nDescription: The current market trend is seeing a rise in innovative tech solutions tailored for sales simulations, email marketing automation, and branding strategies. From a creative business name generator for startups to encrypted messaging apps prioritizing user privacy, these tools are designed to streamline business operations and enhance customer engagement. Additionally, the trend includes two-way synchronization between e-commerce platforms like Shopify and GitHub, as well as convenient starter code generators for creating Discord bots. Furthermore, the trend features free online scheduling tools to help businesses efficiently book appointments and drive growth. Stay ahead of the curve with these cutting-edge technologies enhancing sales, branding, and customer interactions.",
+        "growth_pace": -73.08165548098434,
+        "examples": [
+            {
+                "name": "Sales Coach",
+                "url": "https://chat.openai.com/g/g-HKpDuDZ2h-sales-coach"
+            },
+            {
+                "name": "Company Name Generator",
+                "url": "https://chat.openai.com/g/g-TDLJiTmah-company-name-generator"
+            },
+            {
+                "name": "GossipMessageApp",
+                "url": NaN
+            },
+            {
+                "name": "Plug in Git for Shopify",
+                "url": NaN
+            },
+            {
+                "name": "Simple discord bot",
+                "url": NaN
+            },
+            {
+                "name": "Zoho Campaigns",
+                "url": "https://workspace.google.com/marketplace/app/zoho_campaigns/240552415845"
+            },
+            {
+                "name": "Zoho Campaigns",
+                "url": "https://workspace.google.com/marketplace/app/zoho_campaigns/240552415845"
+            }
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "summary": "Title: AI-Powered Google Data Analysis and Optimization Trend\n\nDescription: Dive into the future of digital marketing with AI assistants powered by Adzviser, offering seamless integration with Google Ads, Google Analytics, and SEO tools. Streamline your reporting process, optimize campaigns, conduct hypothesis testing, and more with the help of cutting-edge technology. Create stunning PowerPoint presentations effortlessly, export to various formats, and even generate high-quality AI voiceovers. Enhance your SEO strategies with detailed website analysis and competitor insights, while mastering Google Sheets with expert guidance. Stay ahead of the curve with real-time web data, code help, and automation advice at your fingertips.",
+        "growth_pace": 450.3247588424437,
+        "examples": [
+            {
+                "name": "Google Ads Virtual Assistant",
+                "url": "https://chat.openai.com/g/g-bIPAVgyEz-google-ads-virtual-assistant"
+            },
+            {
+                "name": "Presentation and Slides GPT",
+                "url": "https://chat.openai.com/g/g-cJtHaGnyo-presentation-and-slides-gpt"
+            },
+            {
+                "name": "Presentation and Slides GPT",
+                "url": "https://chat.openai.com/g/g-cJtHaGnyo-presentation-and-slides-gpt"
+            },
+            {
+                "name": "AI Voice Generator: Text to Speech",
+                "url": "https://chat.openai.com/g/g-MJYELDDFg-ai-voice-generator-text-to-speech"
+            },
+            {
+                "name": "AI Voice Generator: Text to Speech",
+                "url": "https://chat.openai.com/g/g-MJYELDDFg-ai-voice-generator-text-to-speech"
+            },
+            {
+                "name": "Gooogle Search",
+                "url": "https://chat.openai.com/g/g-76OfIUJeh-gooogle-search"
+            },
+            {
+                "name": "Sheets Expert",
+                "url": "https://chat.openai.com/g/g-3Ic3swbbY-sheets-expert"
+            }
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "summary": "Title: \"VSCode Power Pack: Boost Your Productivity with Essential Extensions\"\n\nDescription: Discover the latest trend in VSCode development with a collection of essential plugins designed to enhance your coding experience. From image editing and automation with AI-powered assistants to seamless integration with powerful testing frameworks, transform your workflow with everything you need to streamline and optimize your coding process. Stay ahead of the curve and unlock new possibilities with the VSCode Power Pack.",
+        "growth_pace": 10320.913105413105,
+        "examples": [
+            {
+                "name": "VSCode Code Companion",
+                "url": "https://chat.openai.com/g/g-WRte0yaJM-vscode-code-companion"
+            },
+            {
+                "name": "Image Manager",
+                "url": "https://marketplace.visualstudio.com/items?itemName=minko.image-manager"
+            },
+            {
+                "name": "Vim Keymaps",
+                "url": "https://marketplace.visualstudio.com/items?itemName=schillermann.vim-keymaps"
+            },
+            {
+                "name": "C++ TAEFMate",
+                "url": "https://marketplace.visualstudio.com/items?itemName=dpar39.vscode-taef-test-adapter"
+            },
+            {
+                "name": "twinny - AI Code Completion and Chat",
+                "url": "https://marketplace.visualstudio.com/items?itemName=rjmacarthy.twinny"
+            },
+            {
+                "name": "Extension Auto Updater",
+                "url": "https://marketplace.visualstudio.com/items?itemName=yangzhao.auto-updater"
+            },
+            {
+                "name": "ChatGPT & GPT extension - kudos-gpt",
+                "url": "https://marketplace.visualstudio.com/items?itemName=AkiraKudo.kudos-gpt"
+            }
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "summary": "Title: \"Advanced Tool Integration Trends in Visual Studio Code for R and R Studio Programmers\"\n\nDescription: Explore the latest trend in Visual Studio Code integration for R and R Studio users, where advanced tools and functionalities are revolutionizing the development workflow. From AI-powered error diagnosis and code edits to seamless connections with other platforms like Obsidian and QNX, this trend offers unparalleled support for programmers. Discover how extensions for debugging, test automation, and various scripting languages enhance the coding experience within the familiar Visual Studio Code environment. Stay ahead of the curve with innovative solutions like Datasonnet and Jsonnet debuggers, NVim emulation, and more, optimizing productivity and efficiency in your programming projects.",
+        "growth_pace": 63405.76404494382,
+        "examples": [
+            {
+                "name": "R and R Studio Tutor",
+                "url": "https://chat.openai.com/g/g-iedyANQtM-r-and-r-studio-tutor"
+            },
+            {
+                "name": "Visual Studio Code Expert",
+                "url": "https://chat.openai.com/g/g-FYMRmDqEY-visual-studio-code-expert"
+            },
+            {
+                "name": "UnfoldAI",
+                "url": NaN
+            },
+            {
+                "name": "Helix For VS Code",
+                "url": "https://marketplace.visualstudio.com/items?itemName=jasew.vscode-helix-emulation"
+            },
+            {
+                "name": "TASKING winIDEA",
+                "url": "https://marketplace.visualstudio.com/items?itemName=TASKING-winIDEA.TASKING-winIDEA"
+            },
+            {
+                "name": "Obsidian MD for VSCode",
+                "url": "https://marketplace.visualstudio.com/items?itemName=willasm.obsidian-md-vsc"
+            },
+            {
+                "name": "QNX Toolkit",
+                "url": "https://marketplace.visualstudio.com/items?itemName=qnx.qnx-vscode"
+            }
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "summary": "Title: \"Enhancing Productivity with Browser Extensions: A Trend in Developer Tools and Salesforce Management\"\n\nDescription: As developers and Salesforce administrators seek to optimize their workflows, the trend of utilizing free browser extensions is gaining momentum. From streamlining GitHub issue management with dedicated extensions to automatically pushing code to repositories upon solving Leetcode problems, these tools are proving to be invaluable. Furthermore, browser extensions such as Today I Learned facilitate easy documentation of new knowledge, while LeetHub simplifies GitHub interaction for Leetcode enthusiasts. Additionally, Python developers are benefiting from extension libraries tailored for data analysis and machine learning tasks. This trend also extends to Salesforce users, with dashboard packs for case tracking and starter packs for administrators becoming indispensable tools. As the demand for efficient productivity tools rises, the market for innovative browser extensions shows no signs of slowing down.",
+        "growth_pace": 112402.28,
+        "examples": [
+            {
+                "name": "Jam.dev for GitHub",
+                "url": NaN
+            },
+            {
+                "name": "lancer-extension",
+                "url": NaN
+            },
+            {
+                "name": "TIL: Today I Learned",
+                "url": NaN
+            },
+            {
+                "name": "Leet Hub",
+                "url": NaN
+            },
+            {
+                "name": "mlxtend",
+                "url": "https://github.com/rasbt/mlxtend"
+            },
+            {
+                "name": "RSJ 3D Packer",
+                "url": "https://workspace.google.com/marketplace/app/rsj_3d_packer/483180475230"
+            },
+            {
+                "name": "Service & Support Dashboards",
+                "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000016Z6kEAE"
+            }
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "summary": "Title: Streamlined Shopify Theme Updates and Customization with Automated Tools\n\nDescription: Ensure your Shopify theme is always up-to-date and secure with automated updates using Theme Updater Plus. Eliminate the hassle of manual updates and preserve your customizations effortlessly. Enhance your theme further with Live Theme Editor App, allowing easy modifications without impacting the theme structure. Safeguard your progress with ThemeWatch's automated daily backups and changes tracking feature. Plus, effortlessly add custom code to your store with ease, without requiring any programming knowledge. Upgrade your Shopify experience with these efficient tools designed to simplify theme management and customization.",
+        "growth_pace": 9443.608084358524,
+        "examples": [
+            {
+                "name": "Theme Updater & Backups | OOTS",
+                "url": "https://apps.shopify.com/theme-updater-by-out-of-the-sandbox"
+            },
+            {
+                "name": "Live Theme Editor",
+                "url": "https://apps.shopify.com/live-theme-editor"
+            },
+            {
+                "name": "ThemeWatch \u2011 Theme Backup Tool",
+                "url": "https://apps.shopify.com/themewatch-changes-tracker-backup"
+            },
+            {
+                "name": "Headify <Add Head Code>",
+                "url": "https://apps.shopify.com/checkout-block"
+            },
+            {
+                "name": "Headify <Add Head Code>",
+                "url": "https://apps.shopify.com/checkout-block"
+            },
+            {
+                "name": "ThemeWatch \u2011 Theme Backup Tool",
+                "url": "https://apps.shopify.com/themewatch-changes-tracker-backup"
+            },
+            {
+                "name": "ThemeWatch \u2011 Theme Backup Tool",
+                "url": "https://apps.shopify.com/themewatch-changes-tracker-backup"
+            }
+        ]
+    }
+]
