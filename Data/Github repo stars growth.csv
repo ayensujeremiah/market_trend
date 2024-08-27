@@ -1,0 +1,779 @@
+name,description,url,last_month_stars,this_month_stars,stars_m_m_growth,last_month_multiple
+ggml,"
+        Tensor library for machine learning
+      ",https://github.com/ggerganov/ggml,4500,9700,5200,2.2
+PythonNumericalDemos,"
+        Well-documented Python demonstrations for spatial data analytics, geostatistical and machine learning to support my courses.
+      ",https://github.com/GeostatsGuy/PythonNumericalDemos,625,1300,675,2.1
+Machine-Learning-Specialization-Coursera,"
+         Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG
+      ",https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera,1300,2700,1400,2.1
+Book7_Visualizations-for-Machine-Learning,"
+        Book_7_《机器学习》 | 鸢尾花书：从加减乘除到机器学习；欢迎批评指正
+      ",https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning,840,1800,960,2.1
+skypilot,"
+        SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+      ",https://github.com/skypilot-org/skypilot,2800,5600,2800,2.0
+ml-course,"
+        Open Machine Learning course
+      ",https://github.com/girafe-ai/ml-course,1100,2000,900,1.8
+jetson-containers,"
+        Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
+      ",https://github.com/dusty-nv/jetson-containers,931,1700,769,1.8
+SHARK,"
+        SHARK - High Performance Machine Learning Distribution
+      ",https://github.com/nod-ai/SHARK,836,1400,564,1.7
+prml,"
+        Repository of notes, code and notebooks in Python for the book Pattern Recognition and Machine Learning by Christopher Bishop
+      ",https://github.com/gerdm/prml,1200,1900,700,1.6
+ManimML,"
+        ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+      ",https://github.com/helblazer811/ManimML,1300,2100,800,1.6
+cs229-2018-autumn,"
+        All notes and materials for the CS229: Machine Learning course by Stanford University
+      ",https://github.com/maxim5/cs229-2018-autumn,874,1400,526,1.6
+watermark-removal,"
+        a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image 
+      ",https://github.com/zuruoke/watermark-removal,1000,1600,600,1.6
+Machine-Learning-Interviews,"
+        This repo is meant to serve as a guide for Machine Learning/AI technical interviews. 
+      ",https://github.com/alirezadir/Machine-Learning-Interviews,2000,3300,1300,1.6
+Awesome-Federated-Machine-Learning,"
+        Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond
+      ",https://github.com/innovation-cat/Awesome-Federated-Machine-Learning,1000,1600,600,1.6
+gradio,"
+        Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+      ",https://github.com/gradio-app/gradio,19100,28800,9700,1.5
+pybroker,"
+        Algorithmic Trading in Python with Machine Learning
+      ",https://github.com/edtechre/pybroker,1100,1600,500,1.5
+secretflow,"
+        A unified framework for privacy-preserving data analysis and machine learning
+      ",https://github.com/secretflow/secretflow,1500,2200,700,1.5
+cog,"
+        Containers for machine learning
+      ",https://github.com/replicate/cog,5000,7100,2100,1.4
+FedML,"
+        FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this library, FEDML Nexus AI (",https://github.com/FedML-AI/FedML,3000,4100,1100,1.4
+grobid,"
+        A machine learning software for extracting information from scholarly documents
+      ",https://github.com/kermitt2/grobid,2200,3100,900,1.4
+awesome-ml4co,"
+        Awesome machine learning for combinatorial optimization papers.
+      ",https://github.com/Thinklab-SJTU/awesome-ml4co,1100,1500,400,1.4
+machine-learning-book,"
+        Code Repository for Machine Learning with PyTorch and Scikit-Learn
+      ",https://github.com/rasbt/machine-learning-book,2000,2900,900,1.4
+machine-learning-articles,"
+        🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.
+      ",https://github.com/christianversloot/machine-learning-articles,2200,3100,900,1.4
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,"
+        500 AI Machine learning Deep learning Computer vision NLP Projects with code
+      ",https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,12700,17300,4600,1.4
+ML-foundations,"
+        Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
+      ",https://github.com/jonkrohn/ML-foundations,2200,3000,800,1.4
+qlib,"
+        Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+      ",https://github.com/microsoft/qlib,11300,14200,2900,1.3
+tsai,"
+        Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai
+      ",https://github.com/timeseriesAI/tsai,3600,4700,1100,1.3
+linfa,"
+        A Rust machine learning framework.
+      ",https://github.com/rust-ml/linfa,2700,3400,700,1.3
+wandb,"
+        🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+      ",https://github.com/wandb/wandb,6200,8200,2000,1.3
+mindsdb,"
+        The platform for customizing AI from enterprise data
+      ",https://github.com/mindsdb/mindsdb,17000,21300,4300,1.3
+ml-road,"
+        Machine Learning Resources, Practice and Research
+      ",https://github.com/yanshengjia/ml-road,2300,3000,700,1.3
+Ai-Learn,"
+        人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域
+      ",https://github.com/tangyudi/Ai-Learn,6500,8500,2000,1.3
+evaluate,"
+        🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
+      ",https://github.com/huggingface/evaluate,1400,1800,400,1.3
+awesome-mlss,"
+        List of summer schools in machine learning + related fields across the globe
+      ",https://github.com/sshkhr/awesome-mlss,2000,2500,500,1.3
+openmlsys-zh,"
+        《Machine Learning Systems: Design and Implementation》- Chinese Version
+      ",https://github.com/openmlsys/openmlsys-zh,2900,3700,800,1.3
+torchmetrics,"
+        Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
+      ",https://github.com/Lightning-AI/torchmetrics,1500,1900,400,1.3
+ML2022-Spring,"
+        **Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring
+      ",https://github.com/virginiakm1988/ML2022-Spring,1500,1900,400,1.3
+ML-For-Beginners,"
+        12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+      ",https://github.com/microsoft/ML-For-Beginners,49800,66900,17100,1.3
+machine-learning,"
+        🌎 machine learning tutorials (mainly in Python3) 
+      ",https://github.com/ethen8181/machine-learning,2300,3100,800,1.3
+machine-learning,"
+        머신러닝 입문자 혹은 스터디를 준비하시는 분들에게 도움이 되고자 만든 repository입니다. (This repository is intented for helping whom are interested in machine learning study)
+      ",https://github.com/teddylee777/machine-learning,2000,2500,500,1.3
+ML-YouTube-Courses,"
+        📺 Discover the latest machine learning / AI courses on YouTube.
+      ",https://github.com/dair-ai/ML-YouTube-Courses,10600,14300,3700,1.3
+zero-to-mastery-ml,"
+        All course materials for the Zero to Mastery Machine Learning and Data Science course.
+      ",https://github.com/mrdbourke/zero-to-mastery-ml,2000,2600,600,1.3
+Machine-Learning-Collection,"
+        A resource for learning about Machine learning & Deep Learning
+      ",https://github.com/aladdinpersson/Machine-Learning-Collection,5400,6900,1500,1.3
+Awesome-Rust-MachineLearning,"
+        This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
+      ",https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning,1300,1700,400,1.3
+Data-Science-Interview-Resources,"
+        A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
+      ",https://github.com/rbhatia46/Data-Science-Interview-Resources,1800,2300,500,1.3
+Awesome-Quant-Machine-Learning-Trading,"
+        Quant/Algorithm trading resources with an emphasis on Machine Learning
+      ",https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading,1800,2400,600,1.3
+feast,"
+        Feature Store for Machine Learning
+      ",https://github.com/feast-dev/feast,4400,5300,900,1.2
+AIX360,"
+        Interpretability and explainability of data and machine learning models
+      ",https://github.com/Trusted-AI/AIX360,1300,1500,200,1.2
+EconML,"
+        ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal …
+      ",https://github.com/py-why/EconML,3000,3600,600,1.2
+ludwig,"
+        Low-code framework for building custom LLMs, neural networks, and other AI models
+      ",https://github.com/ludwig-ai/ludwig,9000,10800,1800,1.2
+mlflow,"
+        Open source platform for the machine learning lifecycle
+      ",https://github.com/mlflow/mlflow,14600,17300,2700,1.2
+causalml,"
+        Uplift modeling and causal inference with machine learning algorithms
+      ",https://github.com/uber/causalml,4000,4800,800,1.2
+numpy-ml,"
+        Machine learning, in numpy
+      ",https://github.com/ddbourgin/numpy-ml,11800,14600,2800,1.2
+SynapseML,"
+        Simple and Distributed Machine Learning
+      ",https://github.com/microsoft/SynapseML,4300,5000,700,1.2
+C-Plus-Plus,"
+        Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+      ",https://github.com/TheAlgorithms/C-Plus-Plus,24700,29100,4400,1.2
+transformers,"
+        🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+      ",https://github.com/huggingface/transformers,105000,125000,20000,1.2
+MLE-Flashcards,"
+        200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.
+      ",https://github.com/b7leung/MLE-Flashcards,1600,1900,300,1.2
+audiomentations,"
+        A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
+      ",https://github.com/iver56/audiomentations,1400,1700,300,1.2
+awesome-deep-trading,"
+        List of awesome resources for machine learning-based algorithmic trading
+      ",https://github.com/cbailes/awesome-deep-trading,1200,1400,200,1.2
+awesome-multimodal-ml,"
+        Reading list for research topics in multimodal machine learning
+      ",https://github.com/pliang279/awesome-multimodal-ml,4400,5400,1000,1.2
+GeneticAlgorithmPython,"
+        Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch).
+      ",https://github.com/ahmedfgad/GeneticAlgorithmPython,1400,1700,300,1.2
+machine_learning_refined,"
+        Notes, examples, and Python demos for the 2nd edition of the textbook ""Machine Learning Refined"" (published by Cambridge University Press). 
+      ",https://github.com/jermwatt/machine_learning_refined,1300,1600,300,1.2
+machine-learning-for-trading,"
+        Code for Machine Learning for Algorithmic Trading, 2nd edition.
+      ",https://github.com/stefan-jansen/machine-learning-for-trading,9500,11800,2300,1.2
+Papers-Literature-ML-DL-RL-AI,"
+        Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
+      ",https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI,1900,2200,300,1.2
+adversarial-robustness-toolbox,"
+        Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
+      ",https://github.com/Trusted-AI/adversarial-robustness-toolbox,3800,4500,700,1.2
+Awesome-System-for-Machine-Learning,"
+        A curated list of research in machine learning systems (MLSys). Paper notes are also provided.
+      ",https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning,2000,2400,400,1.2
+awesome-production-machine-learning,"
+        A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+      ",https://github.com/EthicalML/awesome-production-machine-learning,13900,16000,2100,1.2
+SGX-Full-OrderBook-Tick-Data-Trading-Strategy,"
+        Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+      ",https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy,1500,1800,300,1.2
+machine-learning-interview,"
+        Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
+      ",https://github.com/khangich/machine-learning-interview,6700,8000,1300,1.2
+C,"
+        Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+      ",https://github.com/TheAlgorithms/C,16400,18000,1600,1.1
+ML,"
+        A high-level machine learning and deep learning library for the PHP language.
+      ",https://github.com/RubixML/ML,1800,2000,200,1.1
+cml,"
+        ♾️ CML - Continuous Machine Learning | CI/CD for ML
+      ",https://github.com/iterative/cml,3700,3900,200,1.1
+nni,"
+        An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+      ",https://github.com/microsoft/nni,13000,13700,700,1.1
+Simd,"
+        C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX for x86/x64, VMX(Altivec) and VSX(Power7) for PowerPC, NEON for ARM.
+      ",https://github.com/ermig1979/Simd,1800,2000,200,1.1
+cuml,"
+        cuML - RAPIDS Machine Learning Library
+      ",https://github.com/rapidsai/cuml,3400,3900,500,1.1
+dlib,"
+        A toolkit for making real world machine learning and data analysis applications in C++
+      ",https://github.com/davisking/dlib,12100,13000,900,1.1
+lore,"
+        Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers
+      ",https://github.com/instacart/lore,1500,1600,100,1.1
+onnx,"
+        Open standard for machine learning interoperability
+      ",https://github.com/onnx/onnx,15000,16800,1800,1.1
+rasa,"
+        💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+      ",https://github.com/RasaHQ/rasa,16600,18000,1400,1.1
+MLBox,"
+        MLBox is a powerful Automated Machine Learning python library. 
+      ",https://github.com/AxeldeRomblay/MLBox,1400,1500,100,1.1
+alibi,"
+        Algorithms for explaining machine learning models
+      ",https://github.com/SeldonIO/alibi,2100,2300,200,1.1
+h2o-3,"
+        H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
+      ",https://github.com/h2oai/h2o-3,6300,6700,400,1.1
+river,"
+        🌊 Online machine learning in Python
+      ",https://github.com/online-ml/river,4300,4800,500,1.1
+spago,"
+        Self-contained Machine Learning and Natural Language Processing library in Go
+      ",https://github.com/nlpodyssey/spago,1500,1700,200,1.1
+AIF360,"
+        A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
+      ",https://github.com/Trusted-AI/AIF360,2100,2300,200,1.1
+AdvBox,"
+        Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models. Advbox give a command line tool to generate adversarial examples with Zero-Coding.
+      ",https://github.com/advboxes/AdvBox,1300,1400,100,1.1
+ML-NLP,"
+        此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+      ",https://github.com/NLP-LOVE/ML-NLP,13900,15200,1300,1.1
+MLJ.jl,"
+        A Julia machine learning framework
+      ",https://github.com/alan-turing-institute/MLJ.jl,1600,1700,100,1.1
+Paddle,"
+        PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+      ",https://github.com/PaddlePaddle/Paddle,20400,21600,1200,1.1
+RecSys,"
+        计算广告/推荐系统/机器学习(Machine Learning)/点击率(CTR)/转化率(CVR)预估/点击率预估
+      ",https://github.com/mJackie/RecSys,1800,1900,100,1.1
+mlpack,"
+        mlpack: a fast, header-only C++ machine learning library
+      ",https://github.com/mlpack/mlpack,4400,4800,400,1.1
+netron,"
+        Visualizer for neural network, deep learning and machine learning models
+      ",https://github.com/lutzroeder/netron,23200,26100,2900,1.1
+AI-Chip,"
+        A list of ICs and IPs for AI, Machine Learning and Deep Learning.
+      ",https://github.com/basicmi/AI-Chip,1500,1600,100,1.1
+Merlion,"
+        Merlion: A Machine Learning Framework for Time Series Intelligence
+      ",https://github.com/salesforce/Merlion,3000,3300,300,1.1
+doccano,"
+        Open source annotation tool for machine learning practitioners.
+      ",https://github.com/doccano/doccano,7900,9000,1100,1.1
+mlxtend,"
+        A library of extension and helper modules for Python's data analysis and machine learning libraries.
+      ",https://github.com/rasbt/mlxtend,4400,4800,400,1.1
+privacy,"
+        Library for training machine learning models with privacy for training data
+      ",https://github.com/tensorflow/privacy,1800,1900,100,1.1
+pycaret,"
+        An open-source, low-code machine learning library in Python
+      ",https://github.com/pycaret/pycaret,7400,8400,1000,1.1
+shapash,"
+        🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models
+      ",https://github.com/MAIF/shapash,2300,2600,300,1.1
+tslearn,"
+        The machine learning toolkit for time series analysis in Python
+      ",https://github.com/tslearn-team/tslearn,2500,2800,300,1.1
+LightGBM,"
+        A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+      ",https://github.com/microsoft/LightGBM,15100,16100,1000,1.1
+OpenMLDB,"
+        OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
+      ",https://github.com/4paradigm/OpenMLDB,1400,1600,200,1.1
+datasets,"
+        🎁 5,400,000+ Unsplash images made available for research and machine learning
+      ",https://github.com/unsplash/datasets,2100,2300,200,1.1
+gorgonia,"
+        Gorgonia is a library that helps facilitate machine learning in Go.
+      ",https://github.com/gorgonia/gorgonia,5000,5300,300,1.1
+kubeflow,"
+        Machine Learning Toolkit for Kubernetes
+      ",https://github.com/kubeflow/kubeflow,12700,13700,1000,1.1
+metarank,"
+        A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
+      ",https://github.com/metarank/metarank,1800,2000,200,1.1
+mlfinlab,"
+        MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools. 
+      ",https://github.com/hudson-and-thames/mlfinlab,3400,3800,400,1.1
+modelfox,"
+        ModelFox makes it easy to train, deploy, and monitor machine learning models.
+      ",https://github.com/modelfoxdotdev/modelfox,1400,1500,100,1.1
+polyaxon,"
+        MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+      ",https://github.com/polyaxon/polyaxon,3300,3500,200,1.1
+pyprobml,"
+        Python code for ""Probabilistic Machine learning"" book by Kevin Murphy
+      ",https://github.com/probml/pyprobml,5700,6300,600,1.1
+fairlearn,"
+        A Python package to assess and improve fairness of machine learning models.
+      ",https://github.com/fairlearn/fairlearn,1600,1800,200,1.1
+interpret,"
+        Fit interpretable models. Explain blackbox machine learning. 
+      ",https://github.com/interpretml/interpret,5600,6000,400,1.1
+ml-agents,"
+        The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+      ",https://github.com/Unity-Technologies/ml-agents,15000,16300,1300,1.1
+petastorm,"
+        Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+      ",https://github.com/uber/petastorm,1600,1800,200,1.1
+pipelines,"
+        Machine Learning Pipelines for Kubeflow
+      ",https://github.com/kubeflow/pipelines,3200,3400,200,1.1
+surpriver,"
+        Find big moving stocks before they move using machine learning and anomaly detection
+      ",https://github.com/tradytics/surpriver,1600,1700,100,1.1
+ABigSurvey,"
+        A collection of 1000+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML).
+      ",https://github.com/NiuTrans/ABigSurvey,1800,1900,100,1.1
+applied-ml,"
+        📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+      ",https://github.com/eugeneyan/applied-ml,24300,25900,1600,1.1
+Girls-In-AI,"
+        免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战
+      ",https://github.com/girls-in-ai/Girls-In-AI,2700,3000,300,1.1
+mlcourse.ai,"
+        Open Machine Learning Course
+      ",https://github.com/Yorko/mlcourse.ai,8900,9400,500,1.1
+seldon-core,"
+        An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
+      ",https://github.com/SeldonIO/seldon-core,3800,4200,400,1.1
+yellowbrick,"
+        Visual analysis and diagnostic tools to facilitate machine learning model selection.
+      ",https://github.com/DistrictDataLabs/yellowbrick,4000,4200,200,1.1
+MLAlgorithms,"
+        Minimal and clean examples of machine learning algorithms implementations
+      ",https://github.com/rushter/MLAlgorithms,9400,10300,900,1.1
+Made-With-ML,"
+        Learn how to design, develop, deploy and iterate on production-grade ML applications.
+      ",https://github.com/GokuMohandas/Made-With-ML,33400,35700,2300,1.1
+ml-workspace,"
+        🛠 All-in-one web-based IDE specialized for machine learning and data science.
+      ",https://github.com/ml-tooling/ml-workspace,3100,3300,200,1.1
+scikit-learn,"
+        scikit-learn: machine learning in Python
+      ",https://github.com/scikit-learn/scikit-learn,54800,58100,3300,1.1
+stellargraph,"
+        StellarGraph - Machine Learning on Graphs
+      ",https://github.com/stellargraph/stellargraph,2700,2900,200,1.1
+h2o-tutorials,"
+        Tutorials and training material for the H2O Machine Learning Platform
+      ",https://github.com/h2oai/h2o-tutorials,1400,1500,100,1.1
+ComputeLibrary,"
+        The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+      ",https://github.com/ARM-software/ComputeLibrary,2500,2700,200,1.1
+TensorFlow.NET,"
+        .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
+      ",https://github.com/SciSharp/TensorFlow.NET,2800,3100,300,1.1
+ML-Course-Notes,"
+        🎓 Sharing machine learning course / lecture notes.
+      ",https://github.com/dair-ai/ML-Course-Notes,5600,5900,300,1.1
+MachineLearning,"
+        一些关于机器学习的学习资料与研究介绍
+      ",https://github.com/jindongwang/MachineLearning,1900,2000,100,1.1
+Machine-Learning,"
+        ⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
+      ",https://github.com/Jack-Cherish/Machine-Learning,7500,8500,1000,1.1
+awesome-ai-ml-dl,"
+        Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
+      ",https://github.com/neomatrix369/awesome-ai-ml-dl,1300,1400,100,1.1
+Interactive_Tools,"
+        Interactive Tools for Machine Learning, Deep Learning and Math
+      ",https://github.com/Machine-Learning-Tokyo/Interactive_Tools,1900,2100,200,1.1
+best-of-ml-python,"
+        🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+      ",https://github.com/ml-tooling/best-of-ml-python,13900,15300,1400,1.1
+Mathematics-for-ML,"
+        🧮 A collection of resources to learn mathematics for machine learning
+      ",https://github.com/dair-ai/Mathematics-for-ML,3700,4200,500,1.1
+awesome-ml-courses,"
+        Awesome free machine learning and AI courses with video lectures.
+      ",https://github.com/luspr/awesome-ml-courses,2400,2600,200,1.1
+spark-py-notebooks,"
+        Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks
+      ",https://github.com/jadianes/spark-py-notebooks,1500,1600,100,1.1
+3D-Machine-Learning,"
+        A resource repository for 3D machine learning
+      ",https://github.com/timzhang642/3D-Machine-Learning,8900,9400,500,1.1
+DeepLearningProject,"
+        An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
+      ",https://github.com/Spandan-Madan/DeepLearningProject,4400,4700,300,1.1
+sagemaker-python-sdk,"
+        A library for training and deploying machine learning models on Amazon SageMaker
+      ",https://github.com/aws/sagemaker-python-sdk,1900,2000,100,1.1
+MachineLearningStocks,"
+        Using python and scikit-learn to make stock predictions
+      ",https://github.com/robertmartin8/MachineLearningStocks,1500,1600,100,1.1
+awesome-project-ideas,"
+        Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+      ",https://github.com/NirantK/awesome-project-ideas,7000,7500,500,1.1
+deep-learning-drizzle,"
+        Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+      ",https://github.com/kmario23/deep-learning-drizzle,11200,11800,600,1.1
+start-machine-learning,"
+        A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2024 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+      ",https://github.com/louisfb01/start-machine-learning,3600,4100,500,1.1
+Data-Science-Cheatsheet,"
+        A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
+      ",https://github.com/aaronwangy/Data-Science-Cheatsheet,4200,4600,400,1.1
+machine_learning_basics,"
+        Plain python implementations of basic machine learning algorithms
+      ",https://github.com/zotroneneis/machine_learning_basics,4000,4200,200,1.1
+MachineLearningNotebooks,"
+        Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
+      ",https://github.com/Azure/MachineLearningNotebooks,3700,4000,300,1.1
+amazon-sagemaker-examples,"
+        Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
+      ",https://github.com/aws/amazon-sagemaker-examples,8500,9500,1000,1.1
+bayesian-machine-learning,"
+        Notebooks about Bayesian methods for machine learning
+      ",https://github.com/krasserm/bayesian-machine-learning,1700,1800,100,1.1
+homemade-machine-learning,"
+        🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+      ",https://github.com/trekhleb/homemade-machine-learning,21400,22500,1100,1.1
+machine_learning_complete,"
+        A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
+      ",https://github.com/Nyandwi/machine_learning_complete,4200,4500,300,1.1
+machine_learning_examples,"
+        A collection of machine learning examples and tutorials.
+      ",https://github.com/lazyprogrammer/machine_learning_examples,7500,8100,600,1.1
+Machine-Learning-Tutorials,"
+        machine learning and deep learning tutorials, articles and other resources 
+      ",https://github.com/ujjwalkarn/Machine-Learning-Tutorials,13600,14800,1200,1.1
+machine-learning-with-ruby,"
+        Curated list: Resources for machine learning in Ruby
+      ",https://github.com/arbox/machine-learning-with-ruby,1900,2100,200,1.1
+mit-deep-learning-book-pdf,"
+        MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+      ",https://github.com/janishar/mit-deep-learning-book-pdf,11300,12300,1000,1.1
+ml-pen-and-paper-exercises,"
+        Pen and paper exercises in machine learning
+      ",https://github.com/michaelgutmann/ml-pen-and-paper-exercises,1700,1800,100,1.1
+Machine-Learning-with-Python,"
+        Practice and tutorial-style notebooks covering wide variety of machine learning techniques
+      ",https://github.com/tirthajyoti/Machine-Learning-with-Python,2700,3000,300,1.1
+awesome-ml-for-cybersecurity,"
+         ",https://github.com/jivoi/awesome-ml-for-cybersecurity,6000,6800,800,1.1
+machine-learning-experiments,"
+        🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
+      ",https://github.com/trekhleb/machine-learning-experiments,1400,1600,200,1.1
+elasticsearch-learning-to-rank,"
+        Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch
+      ",https://github.com/o19s/elasticsearch-learning-to-rank,1400,1500,100,1.1
+Getting-Things-Done-with-Pytorch,"
+        Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with …
+      ",https://github.com/curiousily/Getting-Things-Done-with-Pytorch,2000,2200,200,1.1
+awesome-quantum-machine-learning,"
+        Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
+      ",https://github.com/krishnakumarsekar/awesome-quantum-machine-learning,2300,2500,200,1.1
+stanford-cs-229-machine-learning,"
+        VIP cheatsheets for Stanford's CS 229 Machine Learning
+      ",https://github.com/afshinea/stanford-cs-229-machine-learning,15500,16800,1300,1.1
+Machine_Learning_Code_Implementation,"
+        Mathematical derivation and pure Python code implementation of machine learning algorithms.
+      ",https://github.com/luwill/Machine_Learning_Code_Implementation,1400,1500,100,1.1
+learn-machine-learning-in-two-months,"
+        Những kiến thức cần thiết để học tốt Machine Learning trong vòng 2 tháng. Essential Knowledge for learning Machine Learning in two months.
+      ",https://github.com/bangoc123/learn-machine-learning-in-two-months,1900,2000,100,1.1
+AlphaTree-graphic-deep-neural-network,"
+        AI Roadmap:机器学习(Machine Learning)、深度学习(Deep Learning)、对抗神经网络(GAN），图神经网络（GNN），NLP，大数据相关的发展路书(roadmap), 并附海量源码（python，pytorch）带大家消化基本知识点，突破面试，完成从新手到合格工程师的跨越，其中深度学习相关论文附有tensorflow caffe官方源码，应用部分含推荐算法和知识图谱
+      ",https://github.com/weslynn/AlphaTree-graphic-deep-neural-network,2400,2600,200,1.1
+python-machine-learning-book-3rd-edition,"
+        The ""Python Machine Learning (3rd edition)"" book code repository
+      ",https://github.com/rasbt/python-machine-learning-book-3rd-edition,4000,4400,400,1.1
+awesome-machine-learning-interpretability,"
+        A curated list of awesome responsible machine learning resources.
+      ",https://github.com/jphall663/awesome-machine-learning-interpretability,3000,3400,400,1.1
+Data-Analysis-and-Machine-Learning-Projects,"
+        Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+      ",https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects,5600,6000,400,1.1
+aws-machine-learning-university-accelerated-cv,"
+        Machine Learning University: Accelerated Computer Vision Class
+      ",https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv,1500,1600,100,1.1
+aws-machine-learning-university-accelerated-nlp,"
+        Machine Learning University: Accelerated Natural Language Processing Class
+      ",https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp,2100,2300,200,1.1
+Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,"
+        A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.
+      ",https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,3400,3600,200,1.1
+sktime,"
+        A unified framework for machine learning with time series
+      ",https://github.com/sktime/sktime,6600,7400,800,1.1
+catboost,"
+        A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+      ",https://github.com/catboost/catboost,7200,7700,500,1.1
+machine-learning-roadmap,"
+        A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+      ",https://github.com/mrdbourke/machine-learning-roadmap,6500,7300,800,1.1
+ml,"
+        Machine learning tools in JavaScript
+      ",https://github.com/mljs/ml,2400,2500,100,1.0
+Qix,"
+        Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+      ",https://github.com/ty4z2008/Qix,14300,14500,200,1.0
+mlr,"
+        Machine Learning in R 
+      ",https://github.com/mlr-org/mlr,1600,1600,0,1.0
+DMTK,"
+        Microsoft Distributed Machine Learning Toolkit
+      ",https://github.com/microsoft/DMTK,2800,2700,-100,1.0
+eli5,"
+        A library for debugging/inspecting machine learning classifiers and explaining their predictions
+      ",https://github.com/TeamHG-Memex/eli5,2700,2700,0,1.0
+goml,"
+        On-line Machine Learning in Go (and so much more)
+      ",https://github.com/cdipaolo/goml,1500,1500,0,1.0
+igel,"
+        a delightful machine learning tool that allows you to train, test, and use models without writing code
+      ",https://github.com/nidhaloff/igel,3100,3100,0,1.0
+oryx,"
+        Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
+      ",https://github.com/OryxProject/oryx,1800,1800,0,1.0
+tpot,"
+        A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+      ",https://github.com/EpistasisLab/tpot,9100,9500,400,1.0
+Alink,"
+        Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. 
+      ",https://github.com/alibaba/Alink,3400,3500,100,1.0
+PRMLT,"
+        Matlab code of machine learning algorithms in book PRML
+      ",https://github.com/PRML/PRMLT,5800,6000,200,1.0
+angel,"
+        A Flexible and Powerful Parameter Server for large-scale machine learning
+      ",https://github.com/Angel-ML/angel,6700,6700,0,1.0
+guess,"
+        🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
+      ",https://github.com/guess-js/guess,6900,7000,100,1.0
+libra,"
+        Ergonomic machine learning for everyone.
+      ",https://github.com/Palashio/libra,1900,1900,0,1.0
+texar,"
+        Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow. This is part of the CASL project: ",https://github.com/asyml/texar,2400,2400,0,1.0
+EasyML,"
+        Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
+      ",https://github.com/ICT-BDA/EasyML,2000,2000,0,1.0
+EdgeML,"
+        This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
+      ",https://github.com/microsoft/EdgeML,1500,1500,0,1.0
+cortex,"
+        Production infrastructure for machine learning at scale
+      ",https://github.com/cortexlabs/cortex,7900,8000,100,1.0
+facets,"
+        Visualizations for machine learning datasets
+      ",https://github.com/PAIR-code/facets,7100,7300,200,1.0
+iOS_ML,"
+        List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog.
+      ",https://github.com/alexsosn/iOS_ML,1400,1400,0,1.0
+imgaug,"
+        Image augmentation for machine learning experiments.
+      ",https://github.com/aleju/imgaug,13600,14200,600,1.0
+mlreef,"
+        The collaboration workspace for Machine Learning
+      ",https://github.com/MLReef/mlreef,1400,1400,0,1.0
+papers,"
+        Summaries of machine learning papers
+      ",https://github.com/aleju/papers,2500,2500,0,1.0
+xlearn,"
+        High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.
+      ",https://github.com/aksnzhy/xlearn,3100,3100,0,1.0
+auto_ml,"
+        [UNMAINTAINED] Automated machine learning for analytics & production
+      ",https://github.com/ClimbsRocks/auto_ml,1600,1600,0,1.0
+fklearn,"
+        fklearn: Functional Machine Learning
+      ",https://github.com/nubank/fklearn,1500,1500,0,1.0
+pattern,"
+        Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+      ",https://github.com/clips/pattern,8500,8700,200,1.0
+pipcook,"
+        Machine learning platform for Web developers
+      ",https://github.com/alibaba/pipcook,2400,2500,100,1.0
+serving,"
+        A flexible, high-performance serving system for machine learning models
+      ",https://github.com/tensorflow/serving,5900,6100,200,1.0
+Swift-AI,"
+        The Swift machine learning library.
+      ",https://github.com/Swift-AI/Swift-AI,6000,6000,0,1.0
+keepsake,"
+        Version control for machine learning
+      ",https://github.com/replicate/keepsake,1600,1600,0,1.0
+manifold,"
+        A model-agnostic visual debugging tool for machine learning
+      ",https://github.com/uber/manifold,1600,1600,0,1.0
+opyrator,"
+        🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
+      ",https://github.com/ml-tooling/opyrator,2900,3000,100,1.0
+AI-Blocks,"
+        A powerful and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!
+      ",https://github.com/MrNothing/AI-Blocks,1900,1900,0,1.0
+Augmentor,"
+        Image augmentation library in Python for machine learning.
+      ",https://github.com/mdbloice/Augmentor,4900,5000,100,1.0
+benchm-ml,"
+        A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
+      ",https://github.com/szilard/benchm-ml,1900,1900,0,1.0
+framework,"
+        Machine learning, computer vision, statistics and general scientific computing for .NET
+      ",https://github.com/accord-net/framework,4400,4400,0,1.0
+ml-videos,"
+        A collection of video resources for machine learning
+      ",https://github.com/dustinvtran/ml-videos,1500,1500,0,1.0
+rasa_core,"
+        Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
+      ",https://github.com/RasaHQ/rasa_core,2300,2300,0,1.0
+theMLbook,"
+        The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book.
+      ",https://github.com/aburkov/theMLbook,1700,1700,0,1.0
+ChatterBot,"
+        ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+      ",https://github.com/gunthercox/ChatterBot,13400,13900,500,1.0
+arXivTimes,"
+        repository to research & share the machine learning articles
+      ",https://github.com/arXivTimes/arXivTimes,3800,3900,100,1.0
+flashlight,"
+        A C++ standalone library for machine learning
+      ",https://github.com/flashlight/flashlight,4900,5100,200,1.0
+tensorflow,"
+        An Open Source Machine Learning Framework for Everyone
+      ",https://github.com/tensorflow/tensorflow,176000,182000,6000,1.0
+turicreate,"
+        Turi Create simplifies the development of custom machine learning models.
+      ",https://github.com/apple/turicreate,11000,11200,200,1.0
+ml-glossary,"
+        Machine learning glossary
+      ",https://github.com/bfortuner/ml-glossary,2800,2900,100,1.0
+ml5-library,"
+        Friendly machine learning for the web! 🤖 
+      ",https://github.com/ml5js/ml5-library,6100,6400,300,1.0
+tensorwatch,"
+        Debugging, monitoring and visualization for Python Machine Learning and Data Science
+      ",https://github.com/microsoft/tensorwatch,3300,3400,100,1.0
+ML-Notebooks,"
+        🔥 Machine Learning Notebooks
+      ",https://github.com/dair-ai/ML-Notebooks,3100,3200,100,1.0
+adblockradio,"
+        An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
+      ",https://github.com/adblockradio/adblockradio,1500,1500,0,1.0
+TransmogrifAI,"
+        TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
+      ",https://github.com/salesforce/TransmogrifAI,2200,2200,0,1.0
+seldon-server,"
+        Machine Learning Platform and Recommendation Engine built on Kubernetes
+      ",https://github.com/SeldonIO/seldon-server,1500,1500,0,1.0
+vowpal_wabbit,"
+        Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. 
+      ",https://github.com/VowpalWabbit/vowpal_wabbit,8200,8400,200,1.0
+FlappyLearning,"
+        Program learning to play Flappy Bird by machine learning (Neuroevolution)
+      ",https://github.com/xviniette/FlappyLearning,4000,4000,0,1.0
+cheatsheets-ai,"
+        Essential Cheat Sheets for deep learning and machine learning researchers ",https://github.com/kailashahirwar/cheatsheets-ai,14600,15000,400,1.0
+python-is-cool,"
+        Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
+      ",https://github.com/chiphuyen/python-is-cool,3400,3500,100,1.0
+traingenerator,"
+        🧙 A web app to generate template code for machine learning
+      ",https://github.com/jrieke/traingenerator,1300,1300,0,1.0
+ML-From-Scratch,"
+        Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+      ",https://github.com/eriklindernoren/ML-From-Scratch,22200,23200,1000,1.0
+TensorFlow-Book,"
+        Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
+      ",https://github.com/BinRoot/TensorFlow-Book,4500,4500,0,1.0
+machinelearning,"
+        ML.NET is an open source and cross-platform machine learning framework for .NET.
+      ",https://github.com/dotnet/machinelearning,8500,8800,300,1.0
+imbalanced-learn,"
+         A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
+      ",https://github.com/scikit-learn-contrib/imbalanced-learn,6400,6700,300,1.0
+tensorflow_cookbook,"
+        Code for Tensorflow Machine Learning Cookbook
+      ",https://github.com/nfmcclure/tensorflow_cookbook,6100,6200,100,1.0
+TensorComprehensions,"
+        A domain specific language to express machine learning workloads.
+      ",https://github.com/facebookresearch/TensorComprehensions,1800,1800,0,1.0
+teachable-machine-v1,"
+         Explore how machine learning works, live in the browser. No coding required.
+      ",https://github.com/googlecreativelab/teachable-machine-v1,3800,3800,0,1.0
+www.mlcompendium.com,"
+        The Machine Learning & Deep Learning Compendium was a list of references in my private & single document, which I curated in order to expand my knowledge, it is now an open knowledge-sharing project compiled using Gitbook.
+      ",https://github.com/orico/www.mlcompendium.com,2000,2000,0,1.0
+Machine-Learning-Notes,"
+        周志华《机器学习》手推笔记
+      ",https://github.com/Sophia-11/Machine-Learning-Notes,3300,3400,100,1.0
+pattern_classification,"
+        A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
+      ",https://github.com/rasbt/pattern_classification,4000,4100,100,1.0
+machine-learning-course,"
+        💬 Machine Learning Course with Python: 
+      ",https://github.com/instillai/machine-learning-course,6900,7000,100,1.0
+machinelearning-samples,"
+        Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+      ",https://github.com/dotnet/machinelearning-samples,4100,4300,200,1.0
+releasing-research-code,"
+        Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
+      ",https://github.com/paperswithcode/releasing-research-code,2400,2500,100,1.0
+machine-learning-mindmap,"
+        A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
+      ",https://github.com/dformoso/machine-learning-mindmap,5800,6000,200,1.0
+HsuanTienLin_MachineLearning,,https://github.com/RedstoneWill/HsuanTienLin_MachineLearning,2600,2700,100,1.0
+Machine-Learning-Flappy-Bird,"
+        Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm
+      ",https://github.com/ssusnic/Machine-Learning-Flappy-Bird,1800,1800,0,1.0
+machine-learning-yearning-cn,"
+        Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
+      ",https://github.com/deeplearning-ai/machine-learning-yearning-cn,7500,7700,200,1.0
+python-machine-learning-book,"
+        The ""Python Machine Learning (1st edition)"" book code repository and info resource
+      ",https://github.com/rasbt/python-machine-learning-book,11900,12100,200,1.0
+turkce-yapay-zeka-kaynaklari,"
+        Türkiye'de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa.
+      ",https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari,2100,2200,100,1.0
+have-fun-with-machine-learning,"
+        An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
+      ",https://github.com/humphd/have-fun-with-machine-learning,5000,5100,100,1.0
+machine-learning-asset-management,"
+        Machine Learning in Asset Management (by ",https://github.com/firmai/machine-learning-asset-management,1600,1600,0,1.0
+practical-machine-learning-with-python,"
+        Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+      ",https://github.com/dipanjanS/practical-machine-learning-with-python,2100,2200,100,1.0
+AndroidTensorFlowMachineLearningExample,"
+        Android TensorFlow MachineLearning Example (Building TensorFlow for Android)
+      ",https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample,1400,1400,0,1.0
+awesome-machine-learning-on-source-code,"
+        Cool links & research papers related to Machine Learning applied to source code (MLonCode)
+      ",https://github.com/src-d/awesome-machine-learning-on-source-code,5900,6100,200,1.0
+machine-learning-for-software-engineers,"
+        A complete daily plan for studying to become a machine learning engineer.
+      ",https://github.com/ZuzooVn/machine-learning-for-software-engineers,27000,27700,700,1.0
+python-machine-learning-book-2nd-edition,"
+        The ""Python Machine Learning (2nd edition)"" book code repository and info resource
+      ",https://github.com/rasbt/python-machine-learning-book-2nd-edition,6800,7100,300,1.0
+smile,"
+        Statistical Machine Intelligence & Learning Engine
+      ",https://github.com/haifengl/smile,5800,5900,100,1.0
+industry-machine-learning,"
+        A curated list of applied machine learning and data science notebooks and libraries across different industries (by ",https://github.com/firmai/industry-machine-learning,6800,7000,200,1.0

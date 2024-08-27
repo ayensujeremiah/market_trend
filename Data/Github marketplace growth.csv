@@ -1,0 +1,403 @@
+name,description,domain,last_month_stars,this_month_stars,stars_m_m_growth,last_month_multiple
+Sweep AI,An AI junior dev. Transform bug reports and feature requests into pull requests seamlessly by providing a description,sweep.dev,48,4200,4152,87.5
+WithMaverick,The AI code reviewer,,10,154,144,15.4
+UnfoldAI,"Use AI-powered Error Diagnosis, Code Edits, Explanations, Bug/Error Solutions and Chat in Visual Studio Code",,112,1700,1588,15.2
+Pullpo for Slack,1 Pull Request = 1 Slack Channel to collaborate seamlessly,pullpo.io,14,138,124,9.9
+Aikido Security,Prevent security issues before they become threats,aikido.dev,217,1500,1283,6.9
+InfieldAI,Upgrade dependencies safely and easily with Infield-verified changelogs,,12,73,61,6.1
+ReadMe Micro,"Connect, organize, and auto-generate documentation for your team's internal APIs",readme.io,28,163,135,5.8
+Xata for GitHub,Deploy preview branches of your database with each pull request,,81,457,376,5.6
+Jam.dev for GitHub,Free browser extension for GitHub issues,jam.dev,1100,5900,4800,5.4
+lancer-extension,For allowing the lancer extension to merge pull requests,,17,87,70,5.1
+Speakeasy API,Automatically create language-idiomatic SDKs from your API specification,www.speakeasyapi.dev,20,92,72,4.6
+Honeycomb.io,Observability helps you understand what’s happening in production and debug issues fast,www.honeycomb.io,21,95,74,4.5
+Devbox Cloud,Spin up a cloud development environment on the edge in seconds. 100% reproducible and powered by Nix,www.jetpack.io,27,111,84,4.1
+autofix.ci,Automatically fix pull requests to increase developer productivity,autofix.ci,70,267,197,3.8
+Boot.dev,Learn to code in the browser,qvault.io,5700,19900,14200,3.5
+Infracost,See cloud cost estimates for Terraform in pull requests,infracost.io,711,2400,1689,3.4
+GitLatch,GitLatch lets you source control your .docx files with GitHub,ekaergos.com,13,43,30,3.3
+RepoProfiler,Get context for your pull requests,,12,38,26,3.2
+n8n.cloud,Automatically connect GitHub to third-party apps with n8n,,92,287,195,3.1
+StackHawk,Find and fix application security bugs before they hit production,stackhawk.com,152,456,304,3.0
+Typo App,"Automate engineering insights across Github, JIRA, Slack and remove dev blockers in real-time",typoapp.io,314,895,581,2.9
+Commet AI,Automated code documentation,,14,39,25,2.8
+Keypup,Scale a High Performing Engineering Team with Development Intelligence,keypup.io,636,1700,1064,2.7
+PDDON,Free multi-functional professional online drawing tool(Low Code),,22,57,35,2.6
+SadaivCI,Sadaiv provides easy backups for Github repositories on web3 infrastructure for free and builds your on-chain developer id,,25,62,37,2.5
+Telegram Sender Extension,Use Telegram Sender extension to connect your  customer on Telegram and grow you business now,,44,112,68,2.5
+ArmorCode App,AppSecOps Delivered - Your 10x AppSec Force Multiplier,armorcode.com,99,246,147,2.5
+Phylum,"Automate software supply chain security to prevent malware, vulnerabilities, and other risks",phylum.io,69,172,103,2.5
+Backup Github (Backrightup),Automatic backups and restores of repos/metadata. Multiple storage/regions including Azure/AWS or your own. Free plan available,backrightup.com,60,142,82,2.4
+GoLinks,Reference human-readable short links to documentation and other resources in GitHub,golinks.io,20,46,26,2.3
+NCM - NodeSource,NCM integration for GitHub securing your Pull Requests and Deployments,nodesource.com,19,43,24,2.3
+HighLoad.fun,A platform for developers competitions in optimizations,,255,565,310,2.2
+Deploybot-app,Manage and automate Github Deployments across repos and organizations,deploybot.app,116,251,135,2.2
+Container Registry,"Best-in-class CNCF Harbor based Container Image Management for individuals, teams and organizations",container-registry.com,40,89,49,2.2
+Qase TestOps,Qase.io is cloud test case management platform built for QA and Dev teams,qase.io,345,718,373,2.1
+Code Pipes,The application installer for the public cloud,cldcvr.com,13,27,14,2.1
+Holopin,Holopin bot for issuing badges based on GitHub activity,holopin.io,245,492,247,2.0
+Payvost,Payment gateway built on blockchain technology,payvost.com,193,377,184,2.0
+BackupLABS (GitHub Backup & Restore),"Backup/Restore: Repos and Gists (automated, on-demand and downloadable). Includes comprehensive metadata and simple pricing",backuplabs.io,67,131,64,2.0
+devOrangeWrench,discovery github api,,14,26,12,1.9
+Prisma Cloud Code Security,"A single tool for securing IaC, container images and open source software across all modern architectures and software supply",bridgecrew.io,1200,2300,1100,1.9
+giscus,A commenting system powered by GitHub Discussions,giscus.app,9800,17800,8000,1.8
+BuildJet,Managed high-performance runners for Github Actions,buildjet.com,1300,2300,1000,1.8
+Reviewly,Create take-home projects that you send to your job candidates that simulate real work,reviewly.dev,12,22,10,1.8
+gitStream by LinearB,gitStream automates how code gets merged from the individual to the main branch with a clear set of repo-level rules,linearb.io,625,1100,475,1.8
+Webhook Actions,Transforms your organization's webhook events into streamlined repository dispatches,rise8.us,35,64,29,1.8
+Socket Security,Protect your app from malicious open source dependencies,socket.dev,3000,5500,2500,1.8
+Data Theorem (SAST),Find and fix security vulnerabilities as code is written,,52,92,40,1.8
+CR.GPT,Code review robot powered by ChatGPT,,1100,1900,800,1.7
+Cloud 66 Deployments,Deploy your code to your own servers on any cloud,cloud66.com,3500,5900,2400,1.7
+Swarmia,"Engineering insights across GitHub, Jira/Linear, and Slack",swarmia.com,1200,2000,800,1.7
+spacelift.io,Spacelift is a sophisticated and compliant infrastructure delivery platform for infrastructure as code,spacelift.io,2200,3800,1600,1.7
+QConnect App,Quality-aware developers' activity and productivity dashboard,,14,24,10,1.7
+scalr.io,Centralize Terraform administration while decentralizing operations,scalr.com,860,1400,540,1.6
+Drata (Version Control),The Drata (Version Control) app uses read-only repo access to continuously monitor your SOC 2 compliance posture,drata.com,2100,3400,1300,1.6
+Apiiro Application Security Platform,"Proactively fix open source, Infra-as-Code and API vulnerabilities, secrets, PII exposure and architecture drift",apiiro.com,111,174,63,1.6
+Beetle App,Collect feedback and bug reports on your Android apps into your GitHub Issues,,18,28,10,1.6
+monday.com + GitHub,GitHub for monday.com empowers teams to extend their level of automation to address both updates and actions taken in GitHub,monday.com,2200,3500,1300,1.6
+Brainboard,"Brainboard is a tool that allows you to visually design, deploy and manage infrastructures on any cloud, collaboratively",www.brainboard.co,769,1200,431,1.6
+CatLight.io,"Action Center for developers. Get desktop notifications for PRs, GitHub Actions and Issues",,134,220,86,1.6
+Intruder.io,The Intruder GitHub app lets you open GitHub issues for your security weaknesses,intruder.io,155,241,86,1.6
+Clayton for GitHub,Your complete Salesforce code reviewer,clayton.io,131,216,85,1.6
+Samlook Crypto,Samlook full Stark dev,,24,39,15,1.6
+BuildPulse,"Automatically detect, track, and rank flaky tests so you can regain trust in your test suite",buildpulse.io,128,200,72,1.6
+PDF Studio for macOS,"An easy to use, full-featured PDF editing software",,40,65,25,1.6
+Semantic PRs,Check that pull requests follow the Conventional Commits spec,,581,869,288,1.5
+boss-bounty,"GitHub, now with bounties; create/earn bounties via issue comments",,404,598,194,1.5
+Figstack,Your intelligent reviewing companion,figstack.com,65,100,35,1.5
+Allstacks Analytics,Allstacks Analytics Platform helps you build software better,,36,54,18,1.5
+GitBook,Sync your markdown files and transform them into beautiful docs with one click,gitbook.com,30800,45100,14300,1.5
+NotesHub: Notes App,"Fully cross-platform, vendor-agnostic, markdown-based note-taking app with deep GitHub integration",www.noteshub.app,323,500,177,1.5
+Onboardbase,"Simple and secure storage for your team's environment configs, at every stage of development, synced across your infra",onboardbase.com,40,59,19,1.5
+Devdynamics App,Ship better quality software. Faster,,46,71,25,1.5
+GitProtect.io FREE Backup for GitHub,"Automatic, daily repo and metadata backup - no maintenance needed: fast restore, DR, AWS, and S3 cloud storage support",xopero.com,683,1000,317,1.5
+Papio Pipelines,Bringing the power of Jenkins to GitHub! Run Jenkinsfiles in a fully managed Jenkins instance,papiocloud.com,205,301,96,1.5
+Official Nx Cloud App,Nx Cloud Github App lets you access the result of every run — with all its logs and build insights — straight from your PR,nrwl.io,3500,5000,1500,1.4
+Semgrep,Code scanning at ludicrous speed. Find bugs and reachable dependency vulnerabilities. Enforce standards on every commit,r2c.dev,4500,6200,1700,1.4
+PLT Hardware CI,Continuous Integration for your hardware products,www.bcdevices.com,17,24,7,1.4
+Sprkl Reviewer,Shorten code reviews. Get a clear view of your Pull Request context and impact before reading a single line of code,,18,25,7,1.4
+Threatrix,"Audit quality, snippet level, open source security and license compliance in build-time with auto-remediation",threatrix.io,27,37,10,1.4
+SOC 2 & ISO 27001 Readiness,This app reads your Github settings and metadata to collect evidence for your SOC 2 or ISO-27001 audit,,40,55,15,1.4
+What The Diff,Your AI-powered code review assistant,beyondco.de,3600,5100,1500,1.4
+Submit Queue,Block PR merges until base branch is green,cirrus-ci.org,40,54,14,1.4
+Hiphops.io,"Automatic pull request review, analysis, labelling. Understands if pull requests are fix, maintenance, or enhancement",hieron.io,56,76,20,1.4
+Secureframe,Streamline your security compliance,secureframe.com,763,1100,337,1.4
+DoControl.io,No-Code SaaS Security Platform - Modernizing DLP and CASB to secure SaaS data,docontrol.io,57,79,22,1.4
+Releases Tracker,Keep track of new releases,,231,323,92,1.4
+XUnit Reporter,A GitHub app to process XUnit reports,,22,30,8,1.4
+Google Cloud Build,"Build, test, and deploy in a fast, consistent, and secure manner",,95700,131000,35300,1.4
+GossipMessageApp,"Gossip is a encrypted message app, so we dont have our app in any App store, as we don't want to compromise on your privacy",,30,43,13,1.4
+PDF Studio Viewer for Linux,"Create, Review and Edit PDF Documents",,48,67,19,1.4
+FixCache,Track bug-prone files from git commit history,,19,25,6,1.3
+mabl bot,Intelligent end-to-end application testing,mabl.com,265,334,69,1.3
+Packit-as-a-Service,A service which helps you integrate your upstream GitHub project into Fedora ecosystem,packit.dev,295,392,97,1.3
+D7.8.5,API Install TWILIO Communication,,30,39,9,1.3
+HubDesk,Create Github Issues from Emails.  Respond to them with a Comment,hubdesk.io,156,198,42,1.3
+ClickUp,The productivity platform that provides a fundamentally new way to work,clickup.com,24600,31800,7200,1.3
+Axolo for Slack,Slack Collaboration app for Pull Requests. Reduce pick-up time and organize daily standups around open PRs,axolo.co,955,1200,245,1.3
+ChatCody,"Efficient code review made easy with a GPT-based chat bot for pull requests. Streamline the process, save time, and deliver h",chatcody.com,426,571,145,1.3
+GitClear,Review PRs up to 40% faster. Pinpoint highest tech debt directories. Most engineer-friendly Developer Analytic velocity stats,www.gitclear.com,1100,1400,300,1.3
+ChatGPTBot,ChatGPT Github App,,2000,2600,600,1.3
+Mergify,Pull requests automation service. Merge your pull requests faster with automatic merges and a merge queue,mergify.com,4600,6000,1400,1.3
+Issues REST API Function,Want to automate GitHub issue creation? Use this app and get away with the burden of implementing GitHub authentication APIs,,90,119,29,1.3
+AskGit.io,Allows you you to chat with your software project via Slack,askgit.io,172,215,43,1.3
+Jira Software + GitHub,GitHub for Jira synchronizes development across tools and uses automation to remove manual steps and shorten delivery time,atlassian.com,183000,236000,53000,1.3
+Debricked,"Automatically identify, fix and prevent vulnerabilities in your open source dependencies",debricked.com,1900,2400,500,1.3
+Pull Request Auto Labeler,A GitHub bot to label PRs automatically based on title and body against list of defined labels,,41,53,12,1.3
+Cirun.io,"GitHub Actions on your Cloud - Run Self-Hosted Runners on AWS, GCP, Azure, DigitalOcean or OpenStack",aktechlabs.com,339,448,109,1.3
+GitDailies,"Pull request metrics, daily activity summaries, and custom alerts",gitdailies.com,198,267,69,1.3
+Public Repository Alerts,Get alert notifications when one of your organisation repositories becomes public,gitglow.com,90,114,24,1.3
+Hoppscotch,"Flexible, scalable database sync utility for Hoppscotch",hoppscotch.io,12200,16000,3800,1.3
+nstrumenta-github,nstrumenta github app,,29,37,8,1.3
+Squash.io,On Demand and One-Click Test Environments for Web Apps and Microservices,,1100,1400,300,1.3
+Trend Micro Cloud One,Complete visibility and control of your applications' security at every stage of their lifecycle,trendmicro.com,173,223,50,1.3
+GitGuardian,The #1 GitHub Security App – Find and fix hardcoded secrets in your GitHub repositories,gitguardian.com,269000,348000,79000,1.3
+Codemagic CI/CD,"Cloud-based continuous integration and delivery for Android, iOS, Flutter, React Native, Cordova and Ionic projects",nevercode.io,46700,63000,16300,1.3
+SonarCloud,"Empowering developers to detect Security Vulnerabilities, Bugs, and Code Smells in pull requests and repositories",www.sonarsource.com,121000,157000,36000,1.3
+Repository Commander,A bot which will handle comment `/` commands and automate labels,,30,40,10,1.3
+EasyMemo,A useful and small application as a lightweight editor and an easy memo that is very user-friendly,,20,26,6,1.3
+Renovate,Keep dependencies up-to-date with automated Pull Requests,renovatebot.com,28900,37400,8500,1.3
+Issues for Help Scout,Track Github Issues directly from Help Scout,,21,27,6,1.3
+Pull Request Checklist Buddy,"Automate task checklists or default tasks for pull requests. Configuration is simple, file-based, and low-maintenance",www.mibexsoftware.com,112,150,38,1.3
+SnoozeThis,"SnoozeThis is a bot that holds on to your blocked issues, with support for different types of dependencies",snoozethis.com,22,29,7,1.3
+Monopolis (beta),Makes monorepo management easier for teams by automating best practices,monopolis.cloud,22,29,7,1.3
+IONOS Deploy Now,Deploy sites and apps instantly via GitHub Actions to IONOS infrastructure,docs.ionos.space,4900,6400,1500,1.3
+Pull Checklist,Smart checklists and automations for your PRs and Issues,pullchecklist.com,387,497,110,1.3
+PDF Studio Viewer,PDF Studio Viewer is a Free PDF Viewer,,50,63,13,1.3
+Automate Branch Rules,Bulk update the branch protection rules for 1 or all repositories across the organizations in one go,ecanarys.com,61,78,17,1.3
+SecureFlag Knowledge Base,Contextual software security training for issues and pull requests,www.secureflag.com,64,82,18,1.3
+TestAzureML,For integrating Github and AzureML,microsoft.com,91,113,22,1.2
+repo rules,"ensure that all repositories have the same settings, e.g. visibility, squash delete, gpg branch protection, team permissions",cyare.com,336,398,62,1.2
+Forky.io,A zen mindmapping tool,,68,79,11,1.2
+Git X-Modules,A better way to manage modular Git projects,tmatesoft.com,292,348,56,1.2
+dependabot-auto-merger,Bot to auto merge dependabot update PR's by using a basic config file,,97,112,15,1.2
+Microsoft Teams for GitHub,Connect your code without leaving Microsoft Teams,github.com,20400,25300,4900,1.2
+Viezly,Visualize file dependencies and split big code changes,viezly.com,216,261,45,1.2
+Decca-Maven,"A bot, which diagnoses dependency conflict issues for Maven-Java projects (http://www.watchman-pypi.com/decca)",,47,55,8,1.2
+Star Notifier,To receive an email notification when there is new Star for your projects,,425,522,97,1.2
+gitenvs.com,"gitenvs is a ""git"" tool to automatically maintain ""testing"" environment branches",,32,39,7,1.2
+ApiFlash,Simple and powerful website screenshot API based on Google Chrome and AWS Lambda,,493,572,79,1.2
+Follow Your Tribe,Coding styles of popular open source code for your project,code-60n.com,58,70,12,1.2
+Knotters Bot,The knottersbot to help you grow on Knotters via your GitHub activities,knotters.org,23,27,4,1.2
+MergEase,"Improved diff tool! Makes manual code reviews faster, displays moved code blocks and highlights only the real code changes",mergease.com,20,24,4,1.2
+ByteChek,Make Compliance Suck Less,,26,30,4,1.2
+DiffLens,"Create language aware diffs on your PRs. Review changes intuitively, identify refactors and align relevant code changes easily",difflens.com,42,51,9,1.2
+Enlightn for Laravel,"Scan Laravel app pull requests for security flaws, performance issues and code smells",laravel-enlightn.com,259,302,43,1.2
+HackMD Hub,HackMD lets the community collaborate on your documentation in real-time,hackmd.io,18900,22200,3300,1.2
+BeMU Chat,Google Firebase based Chat App,,128,150,22,1.2
+Software.com,Automated development KPIs and metrics to improve productivity,software.com,1600,1900,300,1.2
+Sleekplan,"All-in-one feature tracking, roadmap, and changelog - all synced with GitHub Issues",,114,137,23,1.2
+Airbyte.io,Airbyte is the new open-source data integration platform that consolidates your data into your warehouses,airbyte.io,345,406,61,1.2
+In Solidarity,Add inclusive language status checks and annotations,,128,151,23,1.2
+Makerflow,"Stay in the flow longer by managing your tasks and interruptions. Make their work more enjoyable, effective and efficient",makerflow.co,29,35,6,1.2
+Commit Graph,"See all of your branches and tags at once!  Similar to ""git log --graph --date-order --all""",mergebase.com,266,320,54,1.2
+mock.qa,gRPC and HTTP mock APIs in the cloud,mock.qa,392,478,86,1.2
+Stacked Pull Requests,Ensure bite sized Code Reviews with Stacked Pull Requests,,85,106,21,1.2
+VisWiz.io,Visual Regression Testing as a Service,viswiz.io,30,37,7,1.2
+Spampr,"A probot app to try label spammy pull requests, mainly focused towards reducing hacktoberfest spam PRs",,30,36,6,1.2
+GitHall App,Share Issues and Discussions from private repos without exposing your code,,26,32,6,1.2
+Parabol Retrospectives,"Improve team performance–open source, free for life",parabol.co,194,229,35,1.2
+CloudSynth Inbox,"Be agile across all your tools with Inbox, brings all your team's favorite tools together into one easy to organize dashboard",,48,57,9,1.2
+Feature Bot,Give elegant incentives to developers to contribute to your projects by giving a crypto reward for each task completed,,103,121,18,1.2
+LunaTrace by LunaSec,Find and fix security problems like Log4Shell automatically. Available Open Source or as a hosted SaaS powered by GitHub Apps,lunasec.io,186,226,40,1.2
+Push1st,New generation message broker service,,33,39,6,1.2
+Pre-flight,Automatically create enforceable to-do lists for every pull request based on your commit messages,,38,45,7,1.2
+Announcement Drafter,A bot for drafting and publishing new GitHub discussions using pull requests,,35,42,7,1.2
+Azure Boards,"Connects Azure Boards with GitHub to plan, track, and discuss work across your teams",,88900,106000,17100,1.2
+Appcircle Mobile CI/CD,Appcircle is a mobile CI/CD platform that provides a fully automated environment to manage mobile app lifecycle end-to-end,appcircle.io,3600,4300,700,1.2
+Bytesafe Integration,Stay in control and keep unwanted dependencies out of your organization,,121,147,26,1.2
+Label Bot,Labels your PR with a Size and Kind using AI,,63,76,13,1.2
+"Exalate Two-Way Issue Sync [Jira, ServiceNow, Azure DevOps, Zendesk, Salesforce & More]",Don't be confined by only no-code integration apps. Set up an integration with the help of scripts across Github andother tools,exalate.com,1600,1900,300,1.2
+Rezensent App,The app splits pull requests into multiple smaller ones for easier reviews,,21,26,5,1.2
+PR Scheduler,Lets developers schedule PRs to be merged at a specific date/time. Useful for scheduling posts on static blog frameworks,prscheduler.com,464,576,112,1.2
+Naming Conventions Bot,"Automatically validates pull requests, branches and commit messages in your Github repositories",conventionsbot.io,210,258,48,1.2
+Lightspin IaC,"Scan IaC in your repository to detect security issues, prioritize risks, and prevent risky configurations before deployment",cisco.com,41,50,9,1.2
+PRLint Reloaded,Validate PR titles and other metadata using regular expressions,,127,149,22,1.2
+Gagam AI,Get AI-powered issue insights on Github with Gagam - the OpenAI integration for faster solutions,,26,30,4,1.2
+Stacksciences,Stacksciences is providing a SaaS platform to secure your cloud deployments,,31,36,5,1.2
+Check Group,Groups CI checks based on sub-projects for monorepo projects,,34,41,7,1.2
+otto JavaScript Security,Protect your application from client-side attacks and 3rd-party vulnerabilities,www.otto-js.com,28,34,6,1.2
+PDF Studio Viewer for macOS,"Create, Review and Edit PDF Documents",,36,44,8,1.2
+RuboCop Auto Fixer,"Opens PRs against your code, based on ruby community standards",,38,44,6,1.2
+Pull Request Size,Apply size labels to Pull Requests based on the total lines of code changed,093b.org,1100,1200,100,1.1
+Repl.deploy,Automatically deploy from GitHub to Replit,,329,362,33,1.1
+Mend Bolt,Detect open source vulnerabilities in real time with suggested fixes for quick remediation,whitesourcesoftware.com,5400,5700,300,1.1
+Kebechet,"I'm Kebechet bot, goddess of freshness - I will keep your source code fresh and up-to-date",,51,54,3,1.1
+Boring Cyborg,"A Github bot to automatically label PRs, issues and perform all the boring operations that you don't want to do",,290,317,27,1.1
+Trafico,"Automatically adds labels to Pull Requests based on their status (WIP, Changes Requested, Approved) and who's reviewing them",,334,370,36,1.1
+side8 pipeline,AWS CloudFormation CI/CD,,63,69,6,1.1
+Screenshotbot,Get notified when screenshots of your app changes,,56,64,8,1.1
+FlowUI,Builds and runs mobile UI Automation non-flaky tests. Specially designed for QA,,292,314,22,1.1
+Code search by Quod AI,Find the code you need faster,quod.ai,313,332,19,1.1
+kodiak,automate your pull request workflow,,1200,1300,100,1.1
+Dpulls,Mark a pull request as depending on another,www.dpulls.com,158,173,15,1.1
+Slack + GitHub,Connect your code without leaving Slack,github.com,282000,313000,31000,1.1
+PR Chat,Monitor and discuss your Pull Requests right within Slack,pr.chat,111,118,7,1.1
+Run RSpec commands,"Each time that new code is pushed into your repo, you can have a RSpec command automatically run",,35,39,4,1.1
+A Byte of Coding,A Byte of Coding is a daily programming newsletter that is manually curated,,87,100,13,1.1
+Simplab Integration,GitHub App for integration with Simplab infrastructure,,20,23,3,1.1
+Lazy Hand,"A complete developer friendly, fully functional sidekick for all your frequent pull request management actions",,32,35,3,1.1
+The CTRL Bot,"A general-purpose GitHub Bot, working around *your* scripts",,80,87,7,1.1
+Maintainability Pal,Your everyday maintainability assistant that performs automated code reviews on each commit,cyclopt.com,113,120,7,1.1
+Pull Dog,Automatic Docker Compose based test environments for your pull requests,,112,119,7,1.1
+Performance Testing Bot,Easy to use and configure API performance testing application,,190,208,18,1.1
+Review Dino,PR reviews reminder for teams,,31,34,3,1.1
+scanoss.app,SCANOSS detects undeclared OSS components in your commits,scanoss.co.uk,72,77,5,1.1
+tipit bot,tipit bot for Github. Tip people and reward developers with bounty pools,,69,74,5,1.1
+ZeoBot,A Probot App that automates your repositories,,56,60,4,1.1
+StarryCake,A Multiple-feature-combined GitHub Bot Application,,30,33,3,1.1
+DevReplay,Replay your code development by your own rules,,56,59,3,1.1
+Review Notebook App,Code Review and Collaboration for Jupyter Notebooks,reviewnb.com,9100,10400,1300,1.1
+PR Label Enforcer,"If config file provided, this app prevents PRs from getting merged if it doesn't contain certain labels",,69,76,7,1.1
+PR Trophies,Awards PRs with trophies,,41,47,6,1.1
+Kiwi TCMS,Open source test management system with over 2M downloads,mrsenko.com,596,638,42,1.1
+Localazy,Manage your i18n and localization needs from one place with Localazy ®,localazy.com,2900,3300,400,1.1
+Meeshkan,"Meeshkan automatically writes, executes, and reports on a collection of tests to squash bugs and improve your code",,62,68,6,1.1
+ocaml-benchmarks,Benchmarking for Ocaml projects,,43,47,4,1.1
+Blogcop,Manage the outdated articles from your Jekyll blog,ombulabs.com,45,49,4,1.1
+Creating GitHub branches from Jira,Create and view GitHub branches directly from a Jira issue,,3100,3300,200,1.1
+Quantify,Use commits mapped to Atlassian Jira projects as additional metadata source for the Quantify,www.quantifyhq.com,153,174,21,1.1
+quine-bot,Understand the experience of the contributors that submit PRs to your repos,quine.sh,37,42,5,1.1
+jile-github,Connect GitHub with Jile,,49,52,3,1.1
+Zoho Sprints,Agile project management tool for Scrum teams,,354,379,25,1.1
+SuperShields,Smart SVG status icons for your public or private Github repo,oddparity.net,51,55,4,1.1
+Paul The Alien,Paul is a Github Bot that helps with your Git workflows,,37,41,4,1.1
+Bugfender app,Log storage for your applications,bugfender.com,222,250,28,1.1
+Docamatic PDF API,Generate PDFs and images from HTML or templates,,70,79,9,1.1
+axe Linter,"Powered by Deque Systems, helps you automatically find and fix accessibility issues",www.deque.com,538,572,34,1.1
+gitpod.io,"Always ready to code -  Spin up fresh cloud development environments for each task, fully automated, in seconds",gitpod.io,68200,72800,4600,1.1
+inspektre,Application Security Posture Management,inspektre.io,28,32,4,1.1
+Polymer DLP for GitHub,"Polymer automatically detects and protects secrets, credentials, PII, and other sensitive data in GitHub repos",,73,82,9,1.1
+Clemsbot App,A GitHub Assistant bot,,61,70,9,1.1
+Visual Source,Source Code History Visualization,squidcode.com,1700,1900,200,1.1
+Task list completed,PR check to make sure all tasklists / tick boxes are checked in the PR body,,1200,1300,100,1.1
+DeployWizard,Create preview URLs for your Pull Requests with DeployWizard,,72,81,9,1.1
+watchman-pypi,"A bot, which continuously monitors dependency conflicts for millions of Python libraries in PyPI ecosystem",,179,188,9,1.1
+Bitrise Checks,Bitrise Checks brings Bitrise's mobile CICD into GitHub: Kick off workflows and see build results right there,bitrise.io,3900,4200,300,1.1
+Cirrus CI,Enjoy unlimited concurrency for fast and secure development cycle,cirrus-ci.org,5600,6000,400,1.1
+Crafter Marketplace,List your CrafterCMS Extensions on the Crafter Marketplace,craftercms.org,168,178,10,1.1
+Licensebat,Effortless dependency compliance with your license policies,licensebat.com,606,655,49,1.1
+Repography,"Create graphical dashboards for your README.md, and beautiful data visualization posters for your wall",repography.com,1400,1500,100,1.1
+ReportBugz,Get issues reported by team members from ReportBugz to GitHub Issues,,86,91,5,1.1
+XRPL Bot,XRPL ledger transaction explanations,,94,107,13,1.1
+TIL: Today I Learned,Today I Learned helps you document things you learn everyday (requires browser extension),,382,419,37,1.1
+iacbot,"Identify and fix IaC problems in your PRs (Terraform, CloudFormation Kubernetes, and Helm)",lacework.com,466,531,65,1.1
+ApproveMan,Automatic pull request approval for changes in safe locations,,60,63,3,1.1
+Board Genius Sync,"Sync Github issues to Trello, Jira, Gitlab, Asana and more",boardgenius.io,336,365,29,1.1
+GoodDay Work,GoodDay is a modern work management and productivity platform,,312,344,32,1.1
+Decentralized Internet,An NPM library of programs to create decentralized web and distributed computing projects,,753,801,48,1.1
+Bright Security,Bright is a powerful dynamic App and API security testing (DAST) platform that security teams trust and developers love,www.neuralegion.com,458,482,24,1.1
+Quotti,Kepp yourself motivated for the next commit,,81,87,6,1.1
+Issue Embed,Collect bugs and feedback directly from your website's visitors straight into your repository's Github Issues,www.issueembed.dev,121,133,12,1.1
+Test KC,Test,,33,37,4,1.1
+Restyled.io,Restyle Pull Requests as they're opened,restyled.io,3400,3800,400,1.1
+Ensure Single Commit,Rebasing is important to This is just a small checker on PRs to ensure we have single commit per PR,,76,87,11,1.1
+docker-lock-bot,Dependabot for Dockerfiles and docker-compose files' image digests,,96,106,10,1.1
+Merge Freeze,The code freeze tool to block merging and deployments,mergefreeze.com,1300,1400,100,1.1
+Uffizzi Cloud,Make everyday a release day.  5x your release frequency with ephemeral preview environments for every PR,uffizzi.com,1900,2100,200,1.1
+Bridgecrew,"Find and fix security and compliance issues in Terraform, AWS Cloudformation, ARM templates, Kubernetes, and more",bridgecrew.io,4800,5100,300,1.1
+Contour Documentation,Contour makes it easy for developers to write documentation that always stays up to date,,87,96,9,1.1
+GuardRails,GuardRails provides continuous security feedback for modern development teams,guardrails.io,2900,3100,200,1.1
+JellyBeanBot,An app that scans your repo for jellybean.yml files and syncs the details with your Jelly Bean Jar account,,19,21,2,1.1
+Trakr,Cloud-based visual testing platform for website and web-apps,,298,316,18,1.1
+Releasy Semantic,Releasy - Semantic versioning of your software easily,releasy.work,54,61,7,1.1
+FeatureNinjas,The only app to serve feature flags from your GitHub repositories,,39,44,5,1.1
+Sticky Scanner,This app extracts text from sticky images and registers it as issues on GitHub,,28,31,3,1.1
+Dart Email validator,A simple (but correct) Dart class for validating email addresses without using RegEx. Can also be used to validate emails wit,,101,111,10,1.1
+Persona Features bot,bot to keep track of the features in a csv file,,31,34,3,1.1
+SourceSpy,Automatically creates documentation for your project,,122,130,8,1.1
+Apollo Studio,"A cloud platform that helps you build, collaborate on, validate, and secure your organization's GraphQL API",www.apollographql.com,1100,1200,100,1.1
+abaplint,ABAP quality assurance and static analysis,heliconialabs.com,356,404,48,1.1
+GitPermit,Git read permissions for subfolders,,69,78,9,1.1
+PeerGraph,Simplest way to run peer feedback in your organization,peergraph.dev,42,46,4,1.1
+Testspace.com,"Test Management software for DevOps, including CI Results Dashboard, Manual Test Case Management, and Exploratory testing",www.s2technologies.com,889,982,93,1.1
+cla-bot  - CLA automation,"cla-bot is a bot that automates Contributor Licence Agreements (CLAs), automatically checking every commit and PR",,491,547,56,1.1
+CommitCheck,CommitCheck ensures your commit messages are consistent and contain all required information,commitcheck.com,1100,1200,100,1.1
+Flaptastic,Manage flaky unit tests. Click a checkbox to instantly disable any test on all branches. Works with your current test suite,,65,70,5,1.1
+StarChart Labs | Chronicler,Enforce change log updates in pull requests,starchartlabs.org,117,129,12,1.1
+Gitinerary,Tracks your team progress by using Git history,gitinerary.com,93,102,9,1.1
+Private Dependency Graph,Resolves dependencies/dependents in your GitHub organization,conformal.link,105,118,13,1.1
+DeepSource,The Code Health platform - Everything you need to build maintainable and secure software,deepsource.io,35700,40700,5000,1.1
+Honeybadger.io,The web developer's secret weapon,www.honeybadger.io,966,1100,134,1.1
+Open Collective Bot,A perfect companion for your Open Collective,opencollective.com,143,154,11,1.1
+Slash Command,Slash Commands for GitHub,,73,80,7,1.1
+GitHint Bot,GitHint ensures that your pull requests follow specified conventions,,115,122,7,1.1
+tickgit,tickgit helps you manage TODO items in your codebase,tickgit.com,45,48,3,1.1
+Ally,Never miss team health updates and progress,moveworkforward.com,41,45,4,1.1
+Monte Carlo Data,Data reliability. Delivered,montecarlodata.com,63,67,4,1.1
+Pull Request Badge,Pull Request Badge lets you programatically insert badges in your pull request descriptions and then link them to anything,pullrequestbadge.com,454,499,45,1.1
+PDF Studio for Windows,"An easy to use, full-featured PDF editing software",,87,98,11,1.1
+Report Builder,Get User and Organization Reports with GraphQL,ecanarys.com,69,79,10,1.1
+Automate Repo Permissions,Automate repository permissions for Teams in GitHub for 100's of repositories in one go,ecanarys.com,73,82,9,1.1
+Autoprovision GitHub Resources,Automate the creation or updation of GitHub resources with just a few input values,ecanarys.com,47,52,5,1.1
+Unicorn Train,Employee-driven rewards and recognition that seamlessly integrates everywhere your team gets work done,,71,79,8,1.1
+Pull Requests Robot,ChatOps over Github pull requests and issues using slash commands,,46,51,5,1.1
+Localyzer Express,"(Alpha Version) Lingoport continuous translation/localization for your application resource files (.properties, .resx ...)",,52,58,6,1.1
+ReflectionBot,Engage and advance students learning through prompts sent to them when they push,,175,191,16,1.1
+DevOps KPI Collector,Read Only access to collect DevOps KPI Data and generate Dashboard,,139,159,20,1.1
+WIP,DO NOT MERGE – as a service,,10300,10300,0,1.0
+Cerveau,Note-taking based on plain-text Markdown in Git repo,,450,447,-3,1.0
+Depfu,Automated dependency updates done right,,2600,2600,0,1.0
+Merge when green,Automatically merge pull requests when all tests have passed,,201,202,1,1.0
+OkayHQ,Analytics for dev tools,okayhq.com,124,122,-2,1.0
+GitSpo,Analytics and Alerts for Open-Source,,619,622,3,1.0
+unmock,"Unmock helps you organize mocks (fixtures) for your HTTP(S) calls, speeding up development and increasing resiliency",,550,558,8,1.0
+Vizipi,See whats missing from you Pullrequest and who's the most knowledgeable reviewer,vizipi.com,126,131,5,1.0
+close-label,Applies a specific label to an issue closed through a pull request targeting the default branch in the same repository,,81,83,2,1.0
+Fire CI,Turn your team laptops into a farm of Docker based CI servers,fire.ci,191,200,9,1.0
+AnyLint,Code linting on all your commits without any configuration needed,hell.sh,233,234,1,1.0
+Hound,Automated code reviews,houndci.com,4300,4300,0,1.0
+Mockend,On-demand GraphQL and REST fake API,mockend.com,13000,12700,-300,1.0
+Octobox,Spend less time managing your GitHub notifications,octobox.io,5900,6000,100,1.0
+Rollbar,Discover and Respond to Errors in Real Time Starting at $0/mo,rollbar.com,5600,5600,0,1.0
+Ship | Build Monitoring,Elegant desktop + menu bar app to monitor CI/CD builds,www.shipapp.io,71,70,-1,1.0
+Auto Badge,Automatically label your pull requests,a1motion.com,203,206,3,1.0
+Accurics,Detect policy violations across Infrastructure as Code and programmatically fix them with automated pull requests,accurics.com,289,288,-1,1.0
+Teamlytics,"Team leader board and statistics on code contributions, PRs, code reviews, closing issues, and project managment",,431,440,9,1.0
+Datree,YAML configs and K8s manifests validation tool,datree.io,2000,2000,0,1.0
+Git Streaks,Make coding on GitHub a habit,,687,667,-20,1.0
+gobencher,Continuous benchmarking for the Go programming language,orijtech.com,102,99,-3,1.0
+Tidelift,Enterprise-ready open source software—managed for you,tidelift.com,634,627,-7,1.0
+Mokuren for GitHub,Open GitHub Issues in the sidebar,tinplab.xyz,128,129,1,1.0
+todo,Create new issues from actionable comments in your code,,4200,4200,0,1.0
+CodeLingo,Share links to snippets that open directly in VS Code,codelingo.io,939,934,-5,1.0
+DevHub,"Desktop and Mobile apps to keep an eye on Repo Activities, Issues and Notifications (like TweetDeck)",devhubapp.com,9400,9700,300,1.0
+fuzzit.dev,Continuous Fuzzing for C/C++/Java/Golang/Rust and Swift integrated with your current CI/CD workflow,fuzzit.dev,505,511,6,1.0
+Sentry,"Real-time, cross-platform crash reporting and error logging",sentry.io,36400,35800,-600,1.0
+Report.Ci,Reports for unit tests and build logs with lots of annotations chars,report.ci,173,180,7,1.0
+Softagram,Speed up pull request reviews with Softagram analysis. Clear visualization of the change and its impact on your codebase,softagram.com,254,254,0,1.0
+CleanThat,Automatic cleaning of code,m-itrust.com,276,289,13,1.0
+KeksChat,Your App to show your Github profile in your KeksChat profile,,151,158,7,1.0
+Travis CI,Test and deploy with confidence,,370000,384000,14000,1.0
+GitLive,Development teams merge faster with GitLive,git.live,13900,14100,200,1.0
+GradientCI,GradientCI: Add a simple config file to your GitHub repo to train ML models directly from git commits,,2000,2000,0,1.0
+NotiFunction,Hosted Notification Microservices: create custom Slack notifications with buttons in minutes,,31,32,1,1.0
+Semantic PR Title,Verifies PR title complies with Angular commit convention standard (or custom regex),,120,121,1,1.0
+Meercode | CI Monitoring,Meercode is the ultimate dashboard for your GitHub Actions | Starting at $0/month,meercode.io,1600,1600,0,1.0
+Ranger,A sidekick for repository maintainers,reporanger.com,735,755,20,1.0
+App Center,"Continuously build, test, release, and monitor apps for every platform",microsoft.com,10300,10600,300,1.0
+Garnet Secrets Scanner (deprecated),"Real-time secrets detection, alerting and remediation in your PRs",,47,49,2,1.0
+Check TODO,Checks for any added or modified TODO items in a Pull Request,,352,358,6,1.0
+Truegit App,A Publishing Platform powered by Git,,109,112,3,1.0
+JS Bundle Analyzer,Keep your webpack bundle optimized over time,smooth-code.com,685,677,-8,1.0
+SourceLevel,"Pull Requests, Collaboration, Teams, Individuals and DORA Metrics. Help teams succeed, improve accountability",sourcelevel.io,931,929,-2,1.0
+MultitudesCo,"Analytics and coaching to create happier, higher-performing teams",multitudes.co,82,86,4,1.0
+codebeat,Code review expert on demand. Automated for mobile and web,codequest.com,11800,11700,-100,1.0
+GraphQL Inspector,"Validate schemas, get schema change notifications, validate operations and fragments, find breaking changes",,1300,1300,0,1.0
+Pull Assistant,Pull Assistant analyses pull requests and provides the optimal way to perform code reviews,,2100,2100,0,1.0
+ZeroTime for GitHub,Replicon's ZeroTime™ platform for GitHub,replicon.com,25,25,0,1.0
+Scope for GitHub,Scope turns tests into the insights you need to ship higher quality software more frequently,undefinedlabs.com,126,127,1,1.0
+Metabob-app,AI-powered code review and analysis tool for Python,metabob.com,3100,3000,-100,1.0
+Create Issue Branch,Bot that creates an issue branch after assigning an issue,patching.io,2300,2400,100,1.0
+Plug in Git for Shopify,Two-way Shopify <> GitHub sync,pluginuseful.com,536,550,14,1.0
+Links for Confluence,Brings information from Github to Confluence from Atlassian,moveworkforward.com,488,501,13,1.0
+Simple discord bot,This is a app the can help you make a discord bot. This app makes a starter code types simple and helps with the bots discord,,382,395,13,1.0
+Check Run Reporter,"See your test and style results without leaving GitHub. Works with any CI service. Supports JUnit, Checkstyle, and more",check-run-reporter.com,876,899,23,1.0
+Code Review Doctor,Catch more Python and Django bugs during code review,,3100,3100,0,1.0
+Commit Message Lint,Enforces convention of commit messages and pull request title,systangostudios.com,580,605,25,1.0
+Issue-Label Bot,Automatically label GitHub Issues with machine learning,,3000,3100,100,1.0
+Memo Note App,GitHub Gist Powered Smart Note Taking App,,222,208,-14,0.9
+Disbug.io,Report and fix bugs remarkably faster by adding 10x clarity to bug reports,,41,38,-3,0.9
+Altostra,No-code infrastructure platform for developers,altostra.com,632,575,-57,0.9
+Slapdash,Command Bar Launcher for Github,slapdash.com,1600,1500,-100,0.9
+Sleuth,Track and improve engineering efficiency,,1600,1400,-200,0.9
+Coveralls,"Ensure that new code is fully covered, and see coverage trends emerge. Works with any CI service",coveralls.io,14300,12300,-2000,0.9
+Foresight,See you later on the other side,runforesight.com,445,399,-46,0.9
+Octostats Analytics,Scoreboard for your public Github repositories,mobilefirst.me,75,64,-11,0.9
+Timely - Time tracking and planning,Automatically capture all the time you spend in GitHub,timelyapp.com,1700,1400,-300,0.8
+Pullwalla,Stay on top of pull requests with Pullwalla - your unified pull request manager,,187,152,-35,0.8
+POEditor,Manage your software localization collaboratively,poeditor.com,4900,3900,-1000,0.8
+Pageclip,Save information from your website via forms or front-end JavaScript,,5300,4100,-1200,0.8
+Airbrake,Frictionless error monitoring and performance insights for your entire app stack,airbrake.io,6900,5800,-1100,0.8
+AppVeyor,"Cloud service for building, testing and deploying Windows apps",,14300,10900,-3400,0.8
+Neat,"GitHub notifications in your macOS menu bar. Alternative to DevHub, Octobox, and Slack",neat.run,2400,1900,-500,0.8
+Analytics & Reports,Instant Analytics and Automated Reports for GitHub,screenful.com,311,252,-59,0.8
+HackerOne for GitHub,"HackerOne streamlines workflow between security and development to speed response, track GitHub issues and remediate faster",hackerone.com,26,21,-5,0.8
+ReportPortal.io - AI-powered test automation reporting,Open Source tool that uses Machine Learning to speed up the process to triage and determine why tests fail,reportportal.io,616,484,-132,0.8
+Qovery,Test and Release Features 4x Faster with On-demand Environments,qovery.com,15800,10800,-5000,0.7
+Instabug,Instabug is a reliable bug reporting and user feedback SDK that enables testers and users to report issues from within the app,instabug.com,867,611,-256,0.7
+Codetree,Lightweight project management for GitHub issues,codetree.com,1800,1200,-600,0.7
+DeepScan,Advanced static analysis for automatically finding runtime errors in JavaScript code,,4900,3600,-1300,0.7
+Scantist Thompson,Proactive vulnerability management and license compliance for your third-party components,scantist.io,452,310,-142,0.7
+Orwell app,"Quickly see how busy your team are, showing issues and PRs",studiolift.com,36,24,-12,0.7
+Strap,Strap is a script to bootstrap a minimal macOS development system,,274,188,-86,0.7
+Jit Security,The Only Open DevSecOps Orchestration Platform,jit.io,499,335,-164,0.7
+OctodroidBuildService,This app is a rolling-release distribution of Octodroid (unofficial open-source Github client for Android devices),,33,24,-9,0.7
+HTML/CSS to Image,Generate images from code,htmlcsstoimage.com,669,486,-183,0.7
+Code Expander,Type faster using abbreviations for phrases with gist,,202,130,-72,0.6
+Cobrowse.io,"Cobrowse for Android, iOS and Web",cobrowse.io,194,125,-69,0.6
+Codeit,Mobile code editor connected to Git,codeit.codes,1300,831,-469,0.6
+Coding Rooms,The first virtual classroom for teaching programming,codingrooms.com,23600,14800,-8800,0.6
+octo.app,Build your knowledge base,,242,153,-89,0.6
+Integrately App,Integrately is a 1 click automation software that enables you to connect GitHub with your favorite apps in just 1 click,,274,177,-97,0.6
+Stastic,Website editor on top of Github pages,internetdefrance.fr,517,307,-210,0.6
+cee.studio,"Debug C/C++ Memory Errors In Minutes, Not In Hours",stensal.io,279,132,-147,0.5
+Zerocrat,A project manager that never sleeps,www.zerocracy.com,173,95,-78,0.5
+Buddy,One-click delivery automation for Web Developers,buddy.works,18200,9100,-9100,0.5
+IntelliJ CI Dashboard,Manage your GitHub actions from you Intellij IDE,,225,110,-115,0.5
+Motionlink,"Publish content to your blog, portfolio and doc websites directly from Notion",lytowl.com,107,56,-51,0.5
+Portacode,Mobile-friendly professional online code editor for github,,83,29,-54,0.3
+Leet Hub,LeetHub is a chrome extension that automatically pushes your code to GitHub when you solve any Leetcode problem,,16800,3600,-13200,0.2
+Nightfall DLP: GitHub Secrets Scanner,"Nightfall automatically detects PII, credentials, secrets, and more in GitHub repos via machine learning. Free tier",nightfall.ai,144,30,-114,0.2
